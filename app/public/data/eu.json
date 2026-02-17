@@ -1,0 +1,7112 @@
+[
+  {
+    "id": "eu-1",
+    "name": "Othmar Karas",
+    "email": "othmar.karas@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "ÖVP"
+  },
+  {
+    "id": "eu-2",
+    "name": "Lukas Mandl",
+    "email": "lukas.mandl@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "ÖVP"
+  },
+  {
+    "id": "eu-3",
+    "name": "Angelika Winzig",
+    "email": "angelika.winzig@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "ÖVP"
+  },
+  {
+    "id": "eu-4",
+    "name": "Alexander Bernhuber",
+    "email": "alexander.bernhuber@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "ÖVP"
+  },
+  {
+    "id": "eu-5",
+    "name": "Reinhold Lopatka",
+    "email": "reinhold.lopatka@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "ÖVP"
+  },
+  {
+    "id": "eu-6",
+    "name": "Andreas Schieder",
+    "email": "andreas.schieder@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "SPÖ"
+  },
+  {
+    "id": "eu-7",
+    "name": "Evelyn Regner",
+    "email": "evelyn.regner@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "SPÖ"
+  },
+  {
+    "id": "eu-8",
+    "name": "Theresa Muigg",
+    "email": "theresa.muigg@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "SPÖ"
+  },
+  {
+    "id": "eu-9",
+    "name": "Hannes Heide",
+    "email": "hannes.heide@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "SPÖ"
+  },
+  {
+    "id": "eu-10",
+    "name": "Günther Sidl",
+    "email": "gunther.sidl@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "SPÖ"
+  },
+  {
+    "id": "eu-11",
+    "name": "Harald Vilimsky",
+    "email": "harald.vilimsky@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "FPÖ"
+  },
+  {
+    "id": "eu-12",
+    "name": "Georg Mayer",
+    "email": "georg.mayer@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "FPÖ"
+  },
+  {
+    "id": "eu-13",
+    "name": "Roman Haider",
+    "email": "roman.haider@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "FPÖ"
+  },
+  {
+    "id": "eu-14",
+    "name": "Petra Steger",
+    "email": "petra.steger@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "FPÖ"
+  },
+  {
+    "id": "eu-15",
+    "name": "Elisabeth Dieringer-Granza",
+    "email": "elisabeth.dieringer-granza@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "FPÖ"
+  },
+  {
+    "id": "eu-16",
+    "name": "Helmut Brandstätter",
+    "email": "helmut.brandstatter@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "NEOS"
+  },
+  {
+    "id": "eu-17",
+    "name": "Anna Stürgkh",
+    "email": "anna.sturgkh@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "NEOS"
+  },
+  {
+    "id": "eu-18",
+    "name": "Thomas Waitz",
+    "email": "thomas.waitz@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-19",
+    "name": "Lena Schilling",
+    "email": "lena.schilling@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-20",
+    "name": "Niki Scherak",
+    "email": "niki.scherak@europarl.europa.eu",
+    "constituency": "Austria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Austria",
+    "party": "NEOS"
+  },
+  {
+    "id": "eu-21",
+    "name": "Tom Vandenkendelaere",
+    "email": "tom.vandenkendelaere@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "CD&V"
+  },
+  {
+    "id": "eu-22",
+    "name": "Kris Peeters",
+    "email": "kris.peeters@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "CD&V"
+  },
+  {
+    "id": "eu-23",
+    "name": "Elio Di Rupo",
+    "email": "elio.di-rupo@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "PS"
+  },
+  {
+    "id": "eu-24",
+    "name": "Marc Angel",
+    "email": "marc.angel@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "PS"
+  },
+  {
+    "id": "eu-25",
+    "name": "Sophie Wilmès",
+    "email": "sophie.wilmes@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "MR"
+  },
+  {
+    "id": "eu-26",
+    "name": "Olivier Chastel",
+    "email": "olivier.chastel@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "MR"
+  },
+  {
+    "id": "eu-27",
+    "name": "Malik Ben Achour",
+    "email": "malik.ben-achour@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "PS"
+  },
+  {
+    "id": "eu-28",
+    "name": "Hilde Vautmans",
+    "email": "hilde.vautmans@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Open VLD"
+  },
+  {
+    "id": "eu-29",
+    "name": "Guy Verhofstadt",
+    "email": "guy.verhofstadt@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Open VLD"
+  },
+  {
+    "id": "eu-30",
+    "name": "Assita Kanko",
+    "email": "assita.kanko@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "N-VA"
+  },
+  {
+    "id": "eu-31",
+    "name": "Johan Van Overtveldt",
+    "email": "johan.van-overtveldt@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "N-VA"
+  },
+  {
+    "id": "eu-32",
+    "name": "Geert Bourgeois",
+    "email": "geert.bourgeois@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "N-VA"
+  },
+  {
+    "id": "eu-33",
+    "name": "Tom Vandendriessche",
+    "email": "tom.vandendriessche@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Vlaams Belang"
+  },
+  {
+    "id": "eu-34",
+    "name": "Gerolf Annemans",
+    "email": "gerolf.annemans@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Vlaams Belang"
+  },
+  {
+    "id": "eu-35",
+    "name": "Filip De Man",
+    "email": "filip.de-man@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Vlaams Belang"
+  },
+  {
+    "id": "eu-36",
+    "name": "Sara Matthieu",
+    "email": "sara.matthieu@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Groen"
+  },
+  {
+    "id": "eu-37",
+    "name": "Saskia Bricmont",
+    "email": "saskia.bricmont@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Ecolo"
+  },
+  {
+    "id": "eu-38",
+    "name": "Benoît Lutgen",
+    "email": "benoit.lutgen@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "Les Engagés"
+  },
+  {
+    "id": "eu-39",
+    "name": "Maria Arena",
+    "email": "maria.arena@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "PS"
+  },
+  {
+    "id": "eu-40",
+    "name": "Marc Tarabella",
+    "email": "marc.tarabella@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "PS"
+  },
+  {
+    "id": "eu-41",
+    "name": "Pascal Arimont",
+    "email": "pascal.arimont@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "CSP"
+  },
+  {
+    "id": "eu-42",
+    "name": "Wouter Beke",
+    "email": "wouter.beke@europarl.europa.eu",
+    "constituency": "Belgium",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Belgium",
+    "party": "CD&V"
+  },
+  {
+    "id": "eu-43",
+    "name": "Andrey Kovatchev",
+    "email": "andrey.kovatchev@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-44",
+    "name": "Eva Maydell",
+    "email": "eva.maydell@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-45",
+    "name": "Andrey Novakov",
+    "email": "andrey.novakov@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-46",
+    "name": "Radan Kanev",
+    "email": "radan.kanev@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "Democrats for a Strong Bulgaria"
+  },
+  {
+    "id": "eu-47",
+    "name": "Alexander Yordanov",
+    "email": "alexander.yordanov@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-48",
+    "name": "Elena Yoncheva",
+    "email": "elena.yoncheva@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "BSP"
+  },
+  {
+    "id": "eu-49",
+    "name": "Petar Vitanov",
+    "email": "petar.vitanov@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "BSP"
+  },
+  {
+    "id": "eu-50",
+    "name": "Tsvetelina Penkova",
+    "email": "tsvetelina.penkova@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "BSP"
+  },
+  {
+    "id": "eu-51",
+    "name": "Nikola Minchev",
+    "email": "nikola.minchev@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "PP-DB"
+  },
+  {
+    "id": "eu-52",
+    "name": "Iskra Mihaylova",
+    "email": "iskra.mihaylova@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "DPS"
+  },
+  {
+    "id": "eu-53",
+    "name": "Ilhan Kyuchyuk",
+    "email": "ilhan.kyuchyuk@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "DPS"
+  },
+  {
+    "id": "eu-54",
+    "name": "Atidzhe Alieva-Veli",
+    "email": "atidzhe.alieva-veli@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "DPS"
+  },
+  {
+    "id": "eu-55",
+    "name": "Angel Dzhambazki",
+    "email": "angel.dzhambazki@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "VMRO-BND"
+  },
+  {
+    "id": "eu-56",
+    "name": "Kristian Vigenin",
+    "email": "kristian.vigenin@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "BSP"
+  },
+  {
+    "id": "eu-57",
+    "name": "Asim Ademov",
+    "email": "asim.ademov@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-58",
+    "name": "Lidia Pereira",
+    "email": "lidia.pereira@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "GERB"
+  },
+  {
+    "id": "eu-59",
+    "name": "Sergei Stanishev",
+    "email": "sergei.stanishev@europarl.europa.eu",
+    "constituency": "Bulgaria",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Bulgaria",
+    "party": "BSP"
+  },
+  {
+    "id": "eu-60",
+    "name": "Tomislav Sokol",
+    "email": "tomislav.sokol@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "HDZ"
+  },
+  {
+    "id": "eu-61",
+    "name": "Karlo Ressler",
+    "email": "karlo.ressler@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "HDZ"
+  },
+  {
+    "id": "eu-62",
+    "name": "Davor Ivo Stier",
+    "email": "davor.ivo-stier@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "HDZ"
+  },
+  {
+    "id": "eu-63",
+    "name": "Sunčana Glavak",
+    "email": "suncana.glavak@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "HDZ"
+  },
+  {
+    "id": "eu-64",
+    "name": "Željana Zovko",
+    "email": "zeljana.zovko@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "HDZ"
+  },
+  {
+    "id": "eu-65",
+    "name": "Biljana Borzan",
+    "email": "biljana.borzan@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "SDP"
+  },
+  {
+    "id": "eu-66",
+    "name": "Tonino Picula",
+    "email": "tonino.picula@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "SDP"
+  },
+  {
+    "id": "eu-67",
+    "name": "Predrag Fred Matić",
+    "email": "predrag.fred-matic@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "SDP"
+  },
+  {
+    "id": "eu-68",
+    "name": "Mislav Kolakušić",
+    "email": "mislav.kolakusic@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "Independent"
+  },
+  {
+    "id": "eu-69",
+    "name": "Ivan Vilibor Sinčić",
+    "email": "ivan.vilibor-sincic@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "Živi zid"
+  },
+  {
+    "id": "eu-70",
+    "name": "Sandra Benčić",
+    "email": "sandra.bencic@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "Možemo!"
+  },
+  {
+    "id": "eu-71",
+    "name": "Valter Flego",
+    "email": "valter.flego@europarl.europa.eu",
+    "constituency": "Croatia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Croatia",
+    "party": "IDS"
+  },
+  {
+    "id": "eu-72",
+    "name": "Loucas Fourlas",
+    "email": "loucas.fourlas@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "DISY"
+  },
+  {
+    "id": "eu-73",
+    "name": "Loukas Christodoulou",
+    "email": "loukas.christodoulou@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "DISY"
+  },
+  {
+    "id": "eu-74",
+    "name": "Niyazi Kizilyürek",
+    "email": "niyazi.kizilyurek@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "AKEL"
+  },
+  {
+    "id": "eu-75",
+    "name": "Fidias Panayiotou",
+    "email": "fidias.panayiotou@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "Independent"
+  },
+  {
+    "id": "eu-76",
+    "name": "Giorgos Georgiou",
+    "email": "giorgos.georgiou@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "AKEL"
+  },
+  {
+    "id": "eu-77",
+    "name": "Eleni Stavrou",
+    "email": "eleni.stavrou@europarl.europa.eu",
+    "constituency": "Cyprus",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Cyprus",
+    "party": "DISY"
+  },
+  {
+    "id": "eu-78",
+    "name": "Alexandr Vondra",
+    "email": "alexandr.vondra@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ODS"
+  },
+  {
+    "id": "eu-79",
+    "name": "Jan Zahradil",
+    "email": "jan.zahradil@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ODS"
+  },
+  {
+    "id": "eu-80",
+    "name": "Veronika Vrecionová",
+    "email": "veronika.vrecionova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ODS"
+  },
+  {
+    "id": "eu-81",
+    "name": "Ondřej Knotek",
+    "email": "ondrej.knotek@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-82",
+    "name": "Klára Dostálová",
+    "email": "klara.dostalova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-83",
+    "name": "Jaroslav Bžoch",
+    "email": "jaroslav.bzoch@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-84",
+    "name": "Martin Hlaváček",
+    "email": "martin.hlavacek@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-85",
+    "name": "Danuše Nerudová",
+    "email": "danuse.nerudova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "STAN"
+  },
+  {
+    "id": "eu-86",
+    "name": "Luděk Niedermayer",
+    "email": "ludek.niedermayer@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "TOP 09"
+  },
+  {
+    "id": "eu-87",
+    "name": "Tomáš Zdechovský",
+    "email": "tomas.zdechovsky@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "KDU-ČSL"
+  },
+  {
+    "id": "eu-88",
+    "name": "Markéta Gregorová",
+    "email": "marketa.gregorova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "Piráti"
+  },
+  {
+    "id": "eu-89",
+    "name": "Marcel Kolaja",
+    "email": "marcel.kolaja@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "Piráti"
+  },
+  {
+    "id": "eu-90",
+    "name": "Ondřej Kovařík",
+    "email": "ondrej.kovarik@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-91",
+    "name": "Filip Turek",
+    "email": "filip.turek@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "Motoristé/Přísaha"
+  },
+  {
+    "id": "eu-92",
+    "name": "Niklas Nienaß",
+    "email": "niklas.niena@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-93",
+    "name": "Kateřina Konečná",
+    "email": "katerina.konecna@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "KSČM"
+  },
+  {
+    "id": "eu-94",
+    "name": "Stanislav Polčák",
+    "email": "stanislav.polcak@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "STAN"
+  },
+  {
+    "id": "eu-95",
+    "name": "Michaela Šojdrová",
+    "email": "michaela.sojdrova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "KDU-ČSL"
+  },
+  {
+    "id": "eu-96",
+    "name": "Radka Maxová",
+    "email": "radka.maxova@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "ANO"
+  },
+  {
+    "id": "eu-97",
+    "name": "Jan Bystroň",
+    "email": "jan.bystron@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-98",
+    "name": "Ivan David",
+    "email": "ivan.david@europarl.europa.eu",
+    "constituency": "Czechia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Czechia",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-99",
+    "name": "Morten Løkkegaard",
+    "email": "morten.lkkegaard@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Venstre"
+  },
+  {
+    "id": "eu-100",
+    "name": "Bergur Løkke Rasmussen",
+    "email": "bergur.lkke-rasmussen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Venstre"
+  },
+  {
+    "id": "eu-101",
+    "name": "Kira Marie Peter-Hansen",
+    "email": "kira-marie.peter-hansen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "SF"
+  },
+  {
+    "id": "eu-102",
+    "name": "Morten Helveg Petersen",
+    "email": "morten.helveg-petersen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Radikale Venstre"
+  },
+  {
+    "id": "eu-103",
+    "name": "Niels Fuglsang",
+    "email": "niels.fuglsang@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Socialdemokratiet"
+  },
+  {
+    "id": "eu-104",
+    "name": "Christel Schaldemose",
+    "email": "christel.schaldemose@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Socialdemokratiet"
+  },
+  {
+    "id": "eu-105",
+    "name": "Pernille Weiss",
+    "email": "pernille.weiss@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Konservative"
+  },
+  {
+    "id": "eu-106",
+    "name": "Asger Christensen",
+    "email": "asger.christensen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Venstre"
+  },
+  {
+    "id": "eu-107",
+    "name": "Anders Vistisen",
+    "email": "anders.vistisen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Dansk Folkeparti"
+  },
+  {
+    "id": "eu-108",
+    "name": "Villy Søvndal",
+    "email": "villy.svndal@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "SF"
+  },
+  {
+    "id": "eu-109",
+    "name": "Per Clausen",
+    "email": "per.clausen@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Enhedslisten"
+  },
+  {
+    "id": "eu-110",
+    "name": "Sigrid Friis",
+    "email": "sigrid.friis@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Radikale Venstre"
+  },
+  {
+    "id": "eu-111",
+    "name": "Linea Søgaard-Lidell",
+    "email": "linea.sgaard-lidell@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Venstre"
+  },
+  {
+    "id": "eu-112",
+    "name": "Johan Danielsson",
+    "email": "johan.danielsson@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Socialdemokratiet"
+  },
+  {
+    "id": "eu-113",
+    "name": "Peter Kofod",
+    "email": "peter.kofod@europarl.europa.eu",
+    "constituency": "Denmark",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Denmark",
+    "party": "Dansk Folkeparti"
+  },
+  {
+    "id": "eu-114",
+    "name": "Marina Kaljurand",
+    "email": "marina.kaljurand@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "SDE"
+  },
+  {
+    "id": "eu-115",
+    "name": "Sven Mikser",
+    "email": "sven.mikser@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "SDE"
+  },
+  {
+    "id": "eu-116",
+    "name": "Urmas Paet",
+    "email": "urmas.paet@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "Eesti 200"
+  },
+  {
+    "id": "eu-117",
+    "name": "Jüri Ratas",
+    "email": "juri.ratas@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "Keskerakond"
+  },
+  {
+    "id": "eu-118",
+    "name": "Jaak Madison",
+    "email": "jaak.madison@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "Keskerakond"
+  },
+  {
+    "id": "eu-119",
+    "name": "Riho Terras",
+    "email": "riho.terras@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "Erakond Eesti"
+  },
+  {
+    "id": "eu-120",
+    "name": "Jana Toom",
+    "email": "jana.toom@europarl.europa.eu",
+    "constituency": "Estonia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Estonia",
+    "party": "Keskerakond"
+  },
+  {
+    "id": "eu-121",
+    "name": "Henna Virkkunen",
+    "email": "henna.virkkunen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Kokoomus"
+  },
+  {
+    "id": "eu-122",
+    "name": "Sirpa Pietikäinen",
+    "email": "sirpa.pietikainen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Kokoomus"
+  },
+  {
+    "id": "eu-123",
+    "name": "Eero Heinäluoma",
+    "email": "eero.heinaluoma@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "SDP"
+  },
+  {
+    "id": "eu-124",
+    "name": "Ville Niinistö",
+    "email": "ville.niinisto@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Vihreät"
+  },
+  {
+    "id": "eu-125",
+    "name": "Maria Ohisalo",
+    "email": "maria.ohisalo@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Vihreät"
+  },
+  {
+    "id": "eu-126",
+    "name": "Nils Torvalds",
+    "email": "nils.torvalds@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "SFP"
+  },
+  {
+    "id": "eu-127",
+    "name": "Elsi Katainen",
+    "email": "elsi.katainen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Keskusta"
+  },
+  {
+    "id": "eu-128",
+    "name": "Petri Sarvamaa",
+    "email": "petri.sarvamaa@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Kokoomus"
+  },
+  {
+    "id": "eu-129",
+    "name": "Merja Kyllönen",
+    "email": "merja.kyllonen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Vasemmistoliitto"
+  },
+  {
+    "id": "eu-130",
+    "name": "Li Andersson",
+    "email": "li.andersson@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Vasemmistoliitto"
+  },
+  {
+    "id": "eu-131",
+    "name": "Laura Huhtasaari",
+    "email": "laura.huhtasaari@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Perussuomalaiset"
+  },
+  {
+    "id": "eu-132",
+    "name": "Sebastian Tynkkynen",
+    "email": "sebastian.tynkkynen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Perussuomalaiset"
+  },
+  {
+    "id": "eu-133",
+    "name": "Teuvo Hakkarainen",
+    "email": "teuvo.hakkarainen@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Perussuomalaiset"
+  },
+  {
+    "id": "eu-134",
+    "name": "Pekka Toveri",
+    "email": "pekka.toveri@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Kokoomus"
+  },
+  {
+    "id": "eu-135",
+    "name": "Aura Salla",
+    "email": "aura.salla@europarl.europa.eu",
+    "constituency": "Finland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Finland",
+    "party": "Kokoomus"
+  },
+  {
+    "id": "eu-136",
+    "name": "Valérie Hayer",
+    "email": "valerie.hayer@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-137",
+    "name": "Marie-Pierre Vedrenne",
+    "email": "marie-pierre.vedrenne@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "MoDem"
+  },
+  {
+    "id": "eu-138",
+    "name": "Stéphane Séjourné",
+    "email": "stephane.sejourne@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-139",
+    "name": "Pascal Canfin",
+    "email": "pascal.canfin@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-140",
+    "name": "Nathalie Loiseau",
+    "email": "nathalie.loiseau@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-141",
+    "name": "Bernard Guetta",
+    "email": "bernard.guetta@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-142",
+    "name": "Sandro Gozi",
+    "email": "sandro.gozi@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-143",
+    "name": "Pascal Durand",
+    "email": "pascal.durand@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-144",
+    "name": "Fabienne Keller",
+    "email": "fabienne.keller@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-145",
+    "name": "Catherine Amalric",
+    "email": "catherine.amalric@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Renaissance"
+  },
+  {
+    "id": "eu-146",
+    "name": "Laurence Farreng",
+    "email": "laurence.farreng@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "MoDem"
+  },
+  {
+    "id": "eu-147",
+    "name": "Gilles Boyer",
+    "email": "gilles.boyer@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Horizons"
+  },
+  {
+    "id": "eu-148",
+    "name": "Dominique Riquet",
+    "email": "dominique.riquet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Horizons"
+  },
+  {
+    "id": "eu-149",
+    "name": "Jordan Bardella",
+    "email": "jordan.bardella@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-150",
+    "name": "Marine Le Pen",
+    "email": "marine.le-pen@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-151",
+    "name": "Mathilde Androuët",
+    "email": "mathilde.androuet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-152",
+    "name": "Jean-Paul Garraud",
+    "email": "jean-paul.garraud@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-153",
+    "name": "Thierry Mariani",
+    "email": "thierry.mariani@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-154",
+    "name": "Virginie Joron",
+    "email": "virginie.joron@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-155",
+    "name": "Gilles Lebreton",
+    "email": "gilles.lebreton@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-156",
+    "name": "France Jamet",
+    "email": "france.jamet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-157",
+    "name": "Philippe Olivier",
+    "email": "philippe.olivier@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-158",
+    "name": "Aurélia Beigneux",
+    "email": "aurelia.beigneux@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-159",
+    "name": "Julien Sanchez",
+    "email": "julien.sanchez@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-160",
+    "name": "Julie Lechanteux",
+    "email": "julie.lechanteux@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-161",
+    "name": "Jean-Lin Lacapelle",
+    "email": "jean-lin.lacapelle@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-162",
+    "name": "Patricia Chagnon",
+    "email": "patricia.chagnon@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-163",
+    "name": "Hélène Laporte",
+    "email": "helene.laporte@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-164",
+    "name": "Catherine Griset",
+    "email": "catherine.griset@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-165",
+    "name": "Jean-François Jalkh",
+    "email": "jean-francois.jalkh@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-166",
+    "name": "Marie Dauchy",
+    "email": "marie.dauchy@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-167",
+    "name": "André Rougé",
+    "email": "andre.rouge@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-168",
+    "name": "Raphaël Glucksmann",
+    "email": "raphael.glucksmann@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Place publique/PS"
+  },
+  {
+    "id": "eu-169",
+    "name": "Nora Mebarek",
+    "email": "nora.mebarek@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PS"
+  },
+  {
+    "id": "eu-170",
+    "name": "Pierre Larrouturou",
+    "email": "pierre.larrouturou@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Nouvelle Donne"
+  },
+  {
+    "id": "eu-171",
+    "name": "Christophe Clergeau",
+    "email": "christophe.clergeau@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PS"
+  },
+  {
+    "id": "eu-172",
+    "name": "Sylvie Guillaume",
+    "email": "sylvie.guillaume@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PS"
+  },
+  {
+    "id": "eu-173",
+    "name": "Aurore Lalucq",
+    "email": "aurore.lalucq@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Place publique"
+  },
+  {
+    "id": "eu-174",
+    "name": "Marina Ferrari",
+    "email": "marina.ferrari@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PS"
+  },
+  {
+    "id": "eu-175",
+    "name": "Raphaël Music",
+    "email": "raphael.music@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PS"
+  },
+  {
+    "id": "eu-176",
+    "name": "François-Xavier Bellamy",
+    "email": "francois-xavier.bellamy@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-177",
+    "name": "Nadine Morano",
+    "email": "nadine.morano@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-178",
+    "name": "Brice Hortefeux",
+    "email": "brice.hortefeux@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-179",
+    "name": "Geoffroy Didier",
+    "email": "geoffroy.didier@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-180",
+    "name": "Agnès Evren",
+    "email": "agnes.evren@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-181",
+    "name": "Anne Sander",
+    "email": "anne.sander@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LR"
+  },
+  {
+    "id": "eu-182",
+    "name": "David Cormand",
+    "email": "david.cormand@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "EELV"
+  },
+  {
+    "id": "eu-183",
+    "name": "Marie Toussaint",
+    "email": "marie.toussaint@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "EELV"
+  },
+  {
+    "id": "eu-184",
+    "name": "Mounir Satouri",
+    "email": "mounir.satouri@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "EELV"
+  },
+  {
+    "id": "eu-185",
+    "name": "Benoît Biteau",
+    "email": "benoit.biteau@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "EELV"
+  },
+  {
+    "id": "eu-186",
+    "name": "Manon Aubry",
+    "email": "manon.aubry@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-187",
+    "name": "Younous Omarjee",
+    "email": "younous.omarjee@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-188",
+    "name": "Leïla Chaibi",
+    "email": "leila.chaibi@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-189",
+    "name": "Emmanuel Maurel",
+    "email": "emmanuel.maurel@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "GRS"
+  },
+  {
+    "id": "eu-190",
+    "name": "Marina Mesure",
+    "email": "marina.mesure@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-191",
+    "name": "Rima Hassan",
+    "email": "rima.hassan@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-192",
+    "name": "Arnaud Le Gall",
+    "email": "arnaud.le-gall@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-193",
+    "name": "Marion Maréchal",
+    "email": "marion.marechal@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-194",
+    "name": "Guillaume Peltier",
+    "email": "guillaume.peltier@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-195",
+    "name": "Laurence Trochu",
+    "email": "laurence.trochu@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-196",
+    "name": "Nicolas Bay",
+    "email": "nicolas.bay@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-197",
+    "name": "Sarah Knafo",
+    "email": "sarah.knafo@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-198",
+    "name": "Stanislas Rigault",
+    "email": "stanislas.rigault@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-199",
+    "name": "Hadrien Clouet",
+    "email": "hadrien.clouet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-200",
+    "name": "Lydie Massard",
+    "email": "lydie.massard@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "EELV"
+  },
+  {
+    "id": "eu-201",
+    "name": "Malika Sorel",
+    "email": "malika.sorel@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-202",
+    "name": "Fabrice Leggeri",
+    "email": "fabrice.leggeri@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-203",
+    "name": "Sandrine Couprie",
+    "email": "sandrine.couprie@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-204",
+    "name": "Alexandre Varaut",
+    "email": "alexandre.varaut@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-205",
+    "name": "Jean-Marc Tellier",
+    "email": "jean-marc.tellier@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "PCF"
+  },
+  {
+    "id": "eu-206",
+    "name": "Angéline Music",
+    "email": "angeline.music@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "LFI"
+  },
+  {
+    "id": "eu-207",
+    "name": "Lydia Music-France",
+    "email": "lydia.music-france@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-208",
+    "name": "Matthieu Valet",
+    "email": "matthieu.valet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-209",
+    "name": "Kévin Music",
+    "email": "kevin.music@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-210",
+    "name": "Sébastien Music-FR2",
+    "email": "sebastien.music-fr2@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-211",
+    "name": "Pierre-Romain Thionnet",
+    "email": "pierre-romain.thionnet@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-212",
+    "name": "Andréa Music-FR3",
+    "email": "andrea.music-fr3@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-213",
+    "name": "Mathilde Music-FR4",
+    "email": "mathilde.music-fr4@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-214",
+    "name": "Sophie Music-FR5",
+    "email": "sophie.music-fr5@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "RN"
+  },
+  {
+    "id": "eu-215",
+    "name": "Anne-Sophie Frigout",
+    "email": "anne-sophie.frigout@europarl.europa.eu",
+    "constituency": "France",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "France",
+    "party": "Reconquête"
+  },
+  {
+    "id": "eu-216",
+    "name": "Manfred Weber",
+    "email": "manfred.weber@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CSU"
+  },
+  {
+    "id": "eu-217",
+    "name": "Daniel Caspary",
+    "email": "daniel.caspary@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-218",
+    "name": "Peter Liese",
+    "email": "peter.liese@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-219",
+    "name": "Jens Gieseke",
+    "email": "jens.gieseke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-220",
+    "name": "Markus Pieper",
+    "email": "markus.pieper@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-221",
+    "name": "Dennis Radtke",
+    "email": "dennis.radtke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-222",
+    "name": "Norbert Lins",
+    "email": "norbert.lins@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-223",
+    "name": "Rainer Wieland",
+    "email": "rainer.wieland@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-224",
+    "name": "Angelika Niebler",
+    "email": "angelika.niebler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CSU"
+  },
+  {
+    "id": "eu-225",
+    "name": "Monika Hohlmeier",
+    "email": "monika.hohlmeier@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CSU"
+  },
+  {
+    "id": "eu-226",
+    "name": "Markus Ferber",
+    "email": "markus.ferber@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CSU"
+  },
+  {
+    "id": "eu-227",
+    "name": "Stefan Berger",
+    "email": "stefan.berger@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-228",
+    "name": "Christine Schneider",
+    "email": "christine.schneider@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-229",
+    "name": "Lena Düpont",
+    "email": "lena.dupont@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-230",
+    "name": "Marion Walsmann",
+    "email": "marion.walsmann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-231",
+    "name": "Hildegard Bentele",
+    "email": "hildegard.bentele@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-232",
+    "name": "Axel Voss",
+    "email": "axel.voss@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-233",
+    "name": "David McAllister",
+    "email": "david.mcallister@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-234",
+    "name": "Sven Simon",
+    "email": "sven.simon@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-235",
+    "name": "Niclas Herbst",
+    "email": "niclas.herbst@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-236",
+    "name": "Christian Ehler",
+    "email": "christian.ehler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-237",
+    "name": "Sabine Verheyen",
+    "email": "sabine.verheyen@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-238",
+    "name": "Katarina Barley",
+    "email": "katarina.barley@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-239",
+    "name": "Jens Geier",
+    "email": "jens.geier@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-240",
+    "name": "Udo Bullmann",
+    "email": "udo.bullmann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-241",
+    "name": "Delara Burkhardt",
+    "email": "delara.burkhardt@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-242",
+    "name": "Tiemo Wölken",
+    "email": "tiemo.wolken@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-243",
+    "name": "René Repasi",
+    "email": "rene.repasi@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-244",
+    "name": "Bernd Lange",
+    "email": "bernd.lange@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-245",
+    "name": "Birgit Sippel",
+    "email": "birgit.sippel@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-246",
+    "name": "Constanze Krehl",
+    "email": "constanze.krehl@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-247",
+    "name": "Maria Noichl",
+    "email": "maria.noichl@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-248",
+    "name": "Matthias Ecke",
+    "email": "matthias.ecke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-249",
+    "name": "Maximilian Krah",
+    "email": "maximilian.krah@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-250",
+    "name": "Petr Bystron",
+    "email": "petr.bystron@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-251",
+    "name": "Christine Anderson",
+    "email": "christine.anderson@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-252",
+    "name": "Gunnar Beck",
+    "email": "gunnar.beck@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-253",
+    "name": "Markus Buchheit",
+    "email": "markus.buchheit@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-254",
+    "name": "Joachim Kuhs",
+    "email": "joachim.kuhs@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-255",
+    "name": "Bernhard Zimniok",
+    "email": "bernhard.zimniok@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-256",
+    "name": "René Aust",
+    "email": "rene.aust@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-257",
+    "name": "Tomasz Froelich",
+    "email": "tomasz.froelich@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-258",
+    "name": "Irmhild Boßdorf",
+    "email": "irmhild.bodorf@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-259",
+    "name": "Alexander Jungbluth",
+    "email": "alexander.jungbluth@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-260",
+    "name": "Mary Khan-Hohloch",
+    "email": "mary.khan-hohloch@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-261",
+    "name": "Siegbert Droese",
+    "email": "siegbert.droese@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-262",
+    "name": "Marc Jongen",
+    "email": "marc.jongen@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-263",
+    "name": "Guido Reil",
+    "email": "guido.reil@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-264",
+    "name": "Sylvia Limmer",
+    "email": "sylvia.limmer@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-265",
+    "name": "Terry Reintke",
+    "email": "terry.reintke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-266",
+    "name": "Sergey Lagodinsky",
+    "email": "sergey.lagodinsky@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-267",
+    "name": "Michael Bloss",
+    "email": "michael.bloss@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-268",
+    "name": "Hannah Neumann",
+    "email": "hannah.neumann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-269",
+    "name": "Anna Cavazzini",
+    "email": "anna.cavazzini@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-270",
+    "name": "Jutta Paulus",
+    "email": "jutta.paulus@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-271",
+    "name": "Erik Marquardt",
+    "email": "erik.marquardt@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-272",
+    "name": "Daniel Freund",
+    "email": "daniel.freund@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-273",
+    "name": "Niklas Nienaß",
+    "email": "niklas.niena@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-274",
+    "name": "Maja Wallstein",
+    "email": "maja.wallstein@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-275",
+    "name": "Fabio De Masi",
+    "email": "fabio.de-masi@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "BSW"
+  },
+  {
+    "id": "eu-276",
+    "name": "Martin Schirdewan",
+    "email": "martin.schirdewan@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Die Linke"
+  },
+  {
+    "id": "eu-277",
+    "name": "Özlem Demirel",
+    "email": "ozlem.demirel@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Die Linke"
+  },
+  {
+    "id": "eu-278",
+    "name": "Helmut Scholz",
+    "email": "helmut.scholz@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Die Linke"
+  },
+  {
+    "id": "eu-279",
+    "name": "Cornelia Ernst",
+    "email": "cornelia.ernst@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Die Linke"
+  },
+  {
+    "id": "eu-280",
+    "name": "Moritz Körner",
+    "email": "moritz.korner@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FDP"
+  },
+  {
+    "id": "eu-281",
+    "name": "Jan-Christoph Oetjen",
+    "email": "jan-christoph.oetjen@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FDP"
+  },
+  {
+    "id": "eu-282",
+    "name": "Andreas Glück",
+    "email": "andreas.gluck@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FDP"
+  },
+  {
+    "id": "eu-283",
+    "name": "Svenja Hahn",
+    "email": "svenja.hahn@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FDP"
+  },
+  {
+    "id": "eu-284",
+    "name": "Engin Eroglu",
+    "email": "engin.eroglu@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FREIE WÄHLER"
+  },
+  {
+    "id": "eu-285",
+    "name": "Marlene Mortler",
+    "email": "marlene.mortler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CSU"
+  },
+  {
+    "id": "eu-286",
+    "name": "Stefan Köhler",
+    "email": "stefan.kohler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-287",
+    "name": "Michael Gahler",
+    "email": "michael.gahler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-288",
+    "name": "Andreas Schwab",
+    "email": "andreas.schwab@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-289",
+    "name": "Karolin Braunsberger-Reinhold",
+    "email": "karolin.braunsberger-reinhold@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-290",
+    "name": "Thomas Mann",
+    "email": "thomas.mann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-291",
+    "name": "Lara Wolters",
+    "email": "lara.wolters@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-292",
+    "name": "Ismail Ertug",
+    "email": "ismail.ertug@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-293",
+    "name": "Martin Buschmann",
+    "email": "martin.buschmann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "BSW"
+  },
+  {
+    "id": "eu-294",
+    "name": "Thomas Geisel",
+    "email": "thomas.geisel@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "BSW"
+  },
+  {
+    "id": "eu-295",
+    "name": "Friedrich Pürner",
+    "email": "friedrich.purner@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "BSW"
+  },
+  {
+    "id": "eu-296",
+    "name": "Jessica Tatti",
+    "email": "jessica.tatti@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "BSW"
+  },
+  {
+    "id": "eu-297",
+    "name": "Sabine Grützmacher",
+    "email": "sabine.grutzmacher@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-298",
+    "name": "Henrike Hahn",
+    "email": "henrike.hahn@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-299",
+    "name": "Alexandra Geese",
+    "email": "alexandra.geese@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-300",
+    "name": "Malte Gallée",
+    "email": "malte.gallee@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-301",
+    "name": "Sara Nanni",
+    "email": "sara.nanni@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Grüne"
+  },
+  {
+    "id": "eu-302",
+    "name": "Damian Boeselager",
+    "email": "damian.boeselager@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Volt"
+  },
+  {
+    "id": "eu-303",
+    "name": "Nela Riehl",
+    "email": "nela.riehl@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "Volt"
+  },
+  {
+    "id": "eu-304",
+    "name": "Marie-Agnes Strack-Zimmermann",
+    "email": "marie-agnes.strack-zimmermann@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "FDP"
+  },
+  {
+    "id": "eu-305",
+    "name": "Stefan Köhler",
+    "email": "stefan.kohler@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-306",
+    "name": "Lukas Sieper",
+    "email": "lukas.sieper@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-307",
+    "name": "Peter Lundgren",
+    "email": "peter.lundgren@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "AfD"
+  },
+  {
+    "id": "eu-308",
+    "name": "Dennis Radtke",
+    "email": "dennis.radtke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "CDU"
+  },
+  {
+    "id": "eu-309",
+    "name": "Karsten Lucke",
+    "email": "karsten.lucke@europarl.europa.eu",
+    "constituency": "Germany",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Germany",
+    "party": "SPD"
+  },
+  {
+    "id": "eu-310",
+    "name": "Vangelis Meimarakis",
+    "email": "vangelis.meimarakis@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-311",
+    "name": "Maria Spyraki",
+    "email": "maria.spyraki@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-312",
+    "name": "Stelios Kympouropoulos",
+    "email": "stelios.kympouropoulos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-313",
+    "name": "Elissavet Vozemberg-Vrionidi",
+    "email": "elissavet.vozemberg-vrionidi@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-314",
+    "name": "Georgios Kyrtsos",
+    "email": "georgios.kyrtsos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-315",
+    "name": "Anna-Michelle Asimakopoulou",
+    "email": "anna-michelle.asimakopoulou@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-316",
+    "name": "Theodoros Rousopoulos",
+    "email": "theodoros.rousopoulos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-317",
+    "name": "Nikos Androulakis",
+    "email": "nikos.androulakis@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "PASOK-KINAL"
+  },
+  {
+    "id": "eu-318",
+    "name": "Nikos Papandreou",
+    "email": "nikos.papandreou@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "PASOK-KINAL"
+  },
+  {
+    "id": "eu-319",
+    "name": "Eva Kaili",
+    "email": "eva.kaili@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "PASOK-KINAL"
+  },
+  {
+    "id": "eu-320",
+    "name": "Alexis Georgoulis",
+    "email": "alexis.georgoulis@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "SYRIZA"
+  },
+  {
+    "id": "eu-321",
+    "name": "Stelios Kouloglou",
+    "email": "stelios.kouloglou@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "SYRIZA"
+  },
+  {
+    "id": "eu-322",
+    "name": "Dimitrios Papadimoulis",
+    "email": "dimitrios.papadimoulis@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "SYRIZA"
+  },
+  {
+    "id": "eu-323",
+    "name": "Petros Kokkalis",
+    "email": "petros.kokkalis@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "SYRIZA"
+  },
+  {
+    "id": "eu-324",
+    "name": "Emmanouil Fragkos",
+    "email": "emmanouil.fragkos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Elliniki Lysi"
+  },
+  {
+    "id": "eu-325",
+    "name": "Lefteris Nikolaou-Alavanos",
+    "email": "lefteris.nikolaou-alavanos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "KKE"
+  },
+  {
+    "id": "eu-326",
+    "name": "Kostadinka Kuneva",
+    "email": "kostadinka.kuneva@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "KKE"
+  },
+  {
+    "id": "eu-327",
+    "name": "Giorgos Aftias",
+    "email": "giorgos.aftias@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-328",
+    "name": "Nikos Pappas",
+    "email": "nikos.pappas@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "SYRIZA"
+  },
+  {
+    "id": "eu-329",
+    "name": "Apostolos Tzitzikostas",
+    "email": "apostolos.tzitzikostas@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Nea Dimokratia"
+  },
+  {
+    "id": "eu-330",
+    "name": "Ioannis Lagos",
+    "email": "ioannis.lagos@europarl.europa.eu",
+    "constituency": "Greece",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Greece",
+    "party": "Independent"
+  },
+  {
+    "id": "eu-331",
+    "name": "Tamás Deutsch",
+    "email": "tamas.deutsch@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-332",
+    "name": "Enikő Győri",
+    "email": "eniko.gyori@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-333",
+    "name": "András Gyürk",
+    "email": "andras.gyurk@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-334",
+    "name": "Kinga Gál",
+    "email": "kinga.gal@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-335",
+    "name": "Balázs Hidvéghi",
+    "email": "balazs.hidveghi@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-336",
+    "name": "Edina Tóth",
+    "email": "edina.toth@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-337",
+    "name": "Andrea Bocskor",
+    "email": "andrea.bocskor@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-338",
+    "name": "József Szájer",
+    "email": "jozsef.szajer@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-339",
+    "name": "Ernő Schaller-Baross",
+    "email": "erno.schaller-baross@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-340",
+    "name": "Csaba Sógor",
+    "email": "csaba.sogor@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-341",
+    "name": "Péter Magyar",
+    "email": "peter.magyar@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "TISZA"
+  },
+  {
+    "id": "eu-342",
+    "name": "Anna Donáth",
+    "email": "anna.donath@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Momentum"
+  },
+  {
+    "id": "eu-343",
+    "name": "Katalin Cseh",
+    "email": "katalin.cseh@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Momentum"
+  },
+  {
+    "id": "eu-344",
+    "name": "Attila Ara-Kovács",
+    "email": "attila.ara-kovacs@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "DK"
+  },
+  {
+    "id": "eu-345",
+    "name": "Klára Dobrev",
+    "email": "klara.dobrev@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "DK"
+  },
+  {
+    "id": "eu-346",
+    "name": "István Ujhelyi",
+    "email": "istvan.ujhelyi@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "MSZP"
+  },
+  {
+    "id": "eu-347",
+    "name": "Csaba Molnár",
+    "email": "csaba.molnar@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "DK"
+  },
+  {
+    "id": "eu-348",
+    "name": "Márton Gyöngyösi",
+    "email": "marton.gyongyosi@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Jobbik"
+  },
+  {
+    "id": "eu-349",
+    "name": "Andrea Pető",
+    "email": "andrea.peto@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "TISZA"
+  },
+  {
+    "id": "eu-350",
+    "name": "Ádám Kósa",
+    "email": "adam.kosa@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-351",
+    "name": "Bence Tuzson",
+    "email": "bence.tuzson@europarl.europa.eu",
+    "constituency": "Hungary",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Hungary",
+    "party": "Fidesz"
+  },
+  {
+    "id": "eu-352",
+    "name": "Seán Kelly",
+    "email": "sean.kelly@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fine Gael"
+  },
+  {
+    "id": "eu-353",
+    "name": "Maria Walsh",
+    "email": "maria.walsh@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fine Gael"
+  },
+  {
+    "id": "eu-354",
+    "name": "Mairéad McGuinness",
+    "email": "mairead.mcguinness@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fine Gael"
+  },
+  {
+    "id": "eu-355",
+    "name": "Barry Andrews",
+    "email": "barry.andrews@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fianna Fáil"
+  },
+  {
+    "id": "eu-356",
+    "name": "Billy Kelleher",
+    "email": "billy.kelleher@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fianna Fáil"
+  },
+  {
+    "id": "eu-357",
+    "name": "Ciarán Cuffe",
+    "email": "ciaran.cuffe@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Green Party"
+  },
+  {
+    "id": "eu-358",
+    "name": "Lynn Boylan",
+    "email": "lynn.boylan@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Sinn Féin"
+  },
+  {
+    "id": "eu-359",
+    "name": "Chris MacManus",
+    "email": "chris.macmanus@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Sinn Féin"
+  },
+  {
+    "id": "eu-360",
+    "name": "Clare Daly",
+    "email": "clare.daly@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Independents4Change"
+  },
+  {
+    "id": "eu-361",
+    "name": "Mick Wallace",
+    "email": "mick.wallace@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Independents4Change"
+  },
+  {
+    "id": "eu-362",
+    "name": "Luke 'Ming' Flanagan",
+    "email": "luke.ming-flanagan@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Independent"
+  },
+  {
+    "id": "eu-363",
+    "name": "Regina Doherty",
+    "email": "regina.doherty@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fine Gael"
+  },
+  {
+    "id": "eu-364",
+    "name": "Nina Carberry",
+    "email": "nina.carberry@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Fine Gael"
+  },
+  {
+    "id": "eu-365",
+    "name": "Aodhán Ó Ríordáin",
+    "email": "aodhan.o-riordain@europarl.europa.eu",
+    "constituency": "Ireland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Ireland",
+    "party": "Labour"
+  },
+  {
+    "id": "eu-366",
+    "name": "Antonio Tajani",
+    "email": "antonio.tajani@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-367",
+    "name": "Fulvio Martusciello",
+    "email": "fulvio.martusciello@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-368",
+    "name": "Salvatore De Meo",
+    "email": "salvatore.de-meo@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-369",
+    "name": "Herbert Dorfmann",
+    "email": "herbert.dorfmann@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "SVP"
+  },
+  {
+    "id": "eu-370",
+    "name": "Massimiliano Salini",
+    "email": "massimiliano.salini@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-371",
+    "name": "Flavio Tosi",
+    "email": "flavio.tosi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-372",
+    "name": "Caterina Chinnici",
+    "email": "caterina.chinnici@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-373",
+    "name": "Letizia Moratti",
+    "email": "letizia.moratti@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-374",
+    "name": "Giorgia Gelmini",
+    "email": "giorgia.gelmini@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-375",
+    "name": "Nicola Procaccini",
+    "email": "nicola.procaccini@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-376",
+    "name": "Carlo Fidanza",
+    "email": "carlo.fidanza@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-377",
+    "name": "Nicola Danti",
+    "email": "nicola.danti@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-378",
+    "name": "Pietro Fiocchi",
+    "email": "pietro.fiocchi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-379",
+    "name": "Sergio Berlato",
+    "email": "sergio.berlato@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-380",
+    "name": "Denis Nesci",
+    "email": "denis.nesci@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-381",
+    "name": "Vincenzo Sofo",
+    "email": "vincenzo.sofo@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-382",
+    "name": "Mario Mantovani",
+    "email": "mario.mantovani@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-383",
+    "name": "Antonella Sberna",
+    "email": "antonella.sberna@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-384",
+    "name": "Francesco Ferreri",
+    "email": "francesco.ferreri@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-385",
+    "name": "Alberico Gambino",
+    "email": "alberico.gambino@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-386",
+    "name": "Stefano Cavedagna",
+    "email": "stefano.cavedagna@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-387",
+    "name": "Chiara Gemma",
+    "email": "chiara.gemma@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-388",
+    "name": "Alessandra Moretti",
+    "email": "alessandra.moretti@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-389",
+    "name": "Brando Benifei",
+    "email": "brando.benifei@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-390",
+    "name": "Elisabetta Gualmini",
+    "email": "elisabetta.gualmini@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-391",
+    "name": "Pina Picierno",
+    "email": "pina.picierno@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-392",
+    "name": "Patrizia Toia",
+    "email": "patrizia.toia@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-393",
+    "name": "Irene Tinagli",
+    "email": "irene.tinagli@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-394",
+    "name": "Alessandro Zan",
+    "email": "alessandro.zan@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-395",
+    "name": "Camilla Laureti",
+    "email": "camilla.laureti@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-396",
+    "name": "Pierfrancesco Maran",
+    "email": "pierfrancesco.maran@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-397",
+    "name": "Cecilia Strada",
+    "email": "cecilia.strada@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD/AVS"
+  },
+  {
+    "id": "eu-398",
+    "name": "Marco Tarquinio",
+    "email": "marco.tarquinio@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-399",
+    "name": "Annalisa Corrado",
+    "email": "annalisa.corrado@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-400",
+    "name": "Sandro Ruotolo",
+    "email": "sandro.ruotolo@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-401",
+    "name": "Lucia Annunziata",
+    "email": "lucia.annunziata@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-402",
+    "name": "Dario Nardella",
+    "email": "dario.nardella@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-403",
+    "name": "Roberto Gualtieri",
+    "email": "roberto.gualtieri@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-404",
+    "name": "Roberto Vannacci",
+    "email": "roberto.vannacci@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-405",
+    "name": "Silvia Sardone",
+    "email": "silvia.sardone@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-406",
+    "name": "Marco Zanni",
+    "email": "marco.zanni@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-407",
+    "name": "Paolo Borchia",
+    "email": "paolo.borchia@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-408",
+    "name": "Susanna Ceccardi",
+    "email": "susanna.ceccardi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-409",
+    "name": "Aldo Patriciello",
+    "email": "aldo.patriciello@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-410",
+    "name": "Anna Bonfrisco",
+    "email": "anna.bonfrisco@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-411",
+    "name": "Raffaele Stancanelli",
+    "email": "raffaele.stancanelli@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Fratelli d'Italia"
+  },
+  {
+    "id": "eu-412",
+    "name": "Pasquale Tridico",
+    "email": "pasquale.tridico@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-413",
+    "name": "Carolina Morace",
+    "email": "carolina.morace@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-414",
+    "name": "Mario Furore",
+    "email": "mario.furore@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-415",
+    "name": "Gaetano Pedullà",
+    "email": "gaetano.pedulla@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-416",
+    "name": "Valentina Palmisano",
+    "email": "valentina.palmisano@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-417",
+    "name": "Ignazio Corrao",
+    "email": "ignazio.corrao@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "AVS"
+  },
+  {
+    "id": "eu-418",
+    "name": "Benedetta Scuderi",
+    "email": "benedetta.scuderi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "AVS"
+  },
+  {
+    "id": "eu-419",
+    "name": "Leoluca Orlando",
+    "email": "leoluca.orlando@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "AVS"
+  },
+  {
+    "id": "eu-420",
+    "name": "Mimmo Lucano",
+    "email": "mimmo.lucano@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "AVS"
+  },
+  {
+    "id": "eu-421",
+    "name": "Dario Tamburrano",
+    "email": "dario.tamburrano@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-422",
+    "name": "Isabella Ferrara",
+    "email": "isabella.ferrara@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-423",
+    "name": "Giuseppe Antoci",
+    "email": "giuseppe.antoci@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-424",
+    "name": "Sabrina Pignedoli",
+    "email": "sabrina.pignedoli@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-425",
+    "name": "Francesco Giorgianni",
+    "email": "francesco.giorgianni@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Forza Italia"
+  },
+  {
+    "id": "eu-426",
+    "name": "Giuseppina Picierno",
+    "email": "giuseppina.picierno@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "PD"
+  },
+  {
+    "id": "eu-427",
+    "name": "Andrea Ferrara",
+    "email": "andrea.ferrara@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "FdI"
+  },
+  {
+    "id": "eu-428",
+    "name": "Roberto Fiore",
+    "email": "roberto.fiore@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "FdI"
+  },
+  {
+    "id": "eu-429",
+    "name": "Massimo Casanova",
+    "email": "massimo.casanova@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-430",
+    "name": "Antonio Maria Rinaldi",
+    "email": "antonio.maria-rinaldi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-431",
+    "name": "Matteo Adinolfi",
+    "email": "matteo.adinolfi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-432",
+    "name": "Isabella Adinolfi",
+    "email": "isabella.adinolfi@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-433",
+    "name": "Daniela Rondinelli",
+    "email": "daniela.rondinelli@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "M5S"
+  },
+  {
+    "id": "eu-434",
+    "name": "Gianna Gancia",
+    "email": "gianna.gancia@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-435",
+    "name": "Rosanna Conte",
+    "email": "rosanna.conte@europarl.europa.eu",
+    "constituency": "Italy",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Italy",
+    "party": "Lega"
+  },
+  {
+    "id": "eu-436",
+    "name": "Sandra Kalniete",
+    "email": "sandra.kalniete@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Jaunā Vienotība"
+  },
+  {
+    "id": "eu-437",
+    "name": "Inese Vaidere",
+    "email": "inese.vaidere@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Jaunā Vienotība"
+  },
+  {
+    "id": "eu-438",
+    "name": "Roberts Zīle",
+    "email": "roberts.zile@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Nacionālā apvienība"
+  },
+  {
+    "id": "eu-439",
+    "name": "Ivars Ijabs",
+    "email": "ivars.ijabs@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Progresīvie"
+  },
+  {
+    "id": "eu-440",
+    "name": "Nils Ušakovs",
+    "email": "nils.usakovs@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Saskaņa"
+  },
+  {
+    "id": "eu-441",
+    "name": "Vilis Krištopāns",
+    "email": "vilis.kristopans@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "LPV"
+  },
+  {
+    "id": "eu-442",
+    "name": "Valdis Dombrovskis",
+    "email": "valdis.dombrovskis@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Jaunā Vienotība"
+  },
+  {
+    "id": "eu-443",
+    "name": "Rihards Kols",
+    "email": "rihards.kols@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Nacionālā apvienība"
+  },
+  {
+    "id": "eu-444",
+    "name": "Artis Pabriks",
+    "email": "artis.pabriks@europarl.europa.eu",
+    "constituency": "Latvia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Latvia",
+    "party": "Jaunā Vienotība"
+  },
+  {
+    "id": "eu-445",
+    "name": "Andrius Kubilius",
+    "email": "andrius.kubilius@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TS-LKD"
+  },
+  {
+    "id": "eu-446",
+    "name": "Rasa Juknevičienė",
+    "email": "rasa.jukneviciene@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TS-LKD"
+  },
+  {
+    "id": "eu-447",
+    "name": "Liudas Mažylis",
+    "email": "liudas.mazylis@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TS-LKD"
+  },
+  {
+    "id": "eu-448",
+    "name": "Ausra Maldeikienė",
+    "email": "ausra.maldeikiene@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TS-LKD"
+  },
+  {
+    "id": "eu-449",
+    "name": "Juozas Olekas",
+    "email": "juozas.olekas@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "LSDP"
+  },
+  {
+    "id": "eu-450",
+    "name": "Vilija Blinkevičiūtė",
+    "email": "vilija.blinkeviciute@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "LSDP"
+  },
+  {
+    "id": "eu-451",
+    "name": "Vytenis Andriukaitis",
+    "email": "vytenis.andriukaitis@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "LSDP"
+  },
+  {
+    "id": "eu-452",
+    "name": "Petras Gražulis",
+    "email": "petras.grazulis@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TT/LRLS"
+  },
+  {
+    "id": "eu-453",
+    "name": "Viktor Uspaskich",
+    "email": "viktor.uspaskich@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "Darbo partija"
+  },
+  {
+    "id": "eu-454",
+    "name": "Aušra Seibutytė",
+    "email": "ausra.seibutyte@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "TS-LKD"
+  },
+  {
+    "id": "eu-455",
+    "name": "Stasys Jakeliūnas",
+    "email": "stasys.jakeliunas@europarl.europa.eu",
+    "constituency": "Lithuania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Lithuania",
+    "party": "LVŽS"
+  },
+  {
+    "id": "eu-456",
+    "name": "Isabel Wiseler-Lima",
+    "email": "isabel.wiseler-lima@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "CSV"
+  },
+  {
+    "id": "eu-457",
+    "name": "Christophe Hansen",
+    "email": "christophe.hansen@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "CSV"
+  },
+  {
+    "id": "eu-458",
+    "name": "Marc Angel",
+    "email": "marc.angel@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "LSAP"
+  },
+  {
+    "id": "eu-459",
+    "name": "Monica Semedo",
+    "email": "monica.semedo@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "DP"
+  },
+  {
+    "id": "eu-460",
+    "name": "Tilly Metz",
+    "email": "tilly.metz@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "Déi Gréng"
+  },
+  {
+    "id": "eu-461",
+    "name": "Charles Goerens",
+    "email": "charles.goerens@europarl.europa.eu",
+    "constituency": "Luxembourg",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Luxembourg",
+    "party": "DP"
+  },
+  {
+    "id": "eu-462",
+    "name": "Roberta Metsola",
+    "email": "roberta.metsola@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PN"
+  },
+  {
+    "id": "eu-463",
+    "name": "David Casa",
+    "email": "david.casa@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PN"
+  },
+  {
+    "id": "eu-464",
+    "name": "Peter Agius",
+    "email": "peter.agius@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PN"
+  },
+  {
+    "id": "eu-465",
+    "name": "Alex Agius Saliba",
+    "email": "alex.agius-saliba@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PL"
+  },
+  {
+    "id": "eu-466",
+    "name": "Daniel Attard",
+    "email": "daniel.attard@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PL"
+  },
+  {
+    "id": "eu-467",
+    "name": "Thomas Bajada",
+    "email": "thomas.bajada@europarl.europa.eu",
+    "constituency": "Malta",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Malta",
+    "party": "PL"
+  },
+  {
+    "id": "eu-468",
+    "name": "Esther de Lange",
+    "email": "esther.de-lange@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "CDA"
+  },
+  {
+    "id": "eu-469",
+    "name": "Jeroen Lenaers",
+    "email": "jeroen.lenaers@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "CDA"
+  },
+  {
+    "id": "eu-470",
+    "name": "Malik Azmani",
+    "email": "malik.azmani@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "VVD"
+  },
+  {
+    "id": "eu-471",
+    "name": "Liesje Schreinemacher",
+    "email": "liesje.schreinemacher@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "VVD"
+  },
+  {
+    "id": "eu-472",
+    "name": "Mohammed Chahim",
+    "email": "mohammed.chahim@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-473",
+    "name": "Kim van Sparrentak",
+    "email": "kim.van-sparrentak@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-474",
+    "name": "Bas Eickhout",
+    "email": "bas.eickhout@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-475",
+    "name": "Tineke Strik",
+    "email": "tineke.strik@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-476",
+    "name": "Gerben-Jan Gerbrandy",
+    "email": "gerben-jan.gerbrandy@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "D66"
+  },
+  {
+    "id": "eu-477",
+    "name": "Sophie in 't Veld",
+    "email": "sophie.in-t-veld@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "D66"
+  },
+  {
+    "id": "eu-478",
+    "name": "Samira Rafaela",
+    "email": "samira.rafaela@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "D66"
+  },
+  {
+    "id": "eu-479",
+    "name": "Geert Wilders",
+    "email": "geert.wilders@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-480",
+    "name": "Auke Zijlstra",
+    "email": "auke.zijlstra@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-481",
+    "name": "Marcel de Graaff",
+    "email": "marcel.de-graaff@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-482",
+    "name": "Tom Staal",
+    "email": "tom.staal@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-483",
+    "name": "Sebastiaan Stöteler",
+    "email": "sebastiaan.stoteler@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-484",
+    "name": "Rob Roos",
+    "email": "rob.roos@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "JA21"
+  },
+  {
+    "id": "eu-485",
+    "name": "Michiel Hoogeveen",
+    "email": "michiel.hoogeveen@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "JA21"
+  },
+  {
+    "id": "eu-486",
+    "name": "Anja Haga",
+    "email": "anja.haga@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "CU-SGP"
+  },
+  {
+    "id": "eu-487",
+    "name": "Bert-Jan Ruissen",
+    "email": "bert-jan.ruissen@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "CU-SGP"
+  },
+  {
+    "id": "eu-488",
+    "name": "Peter van Dalen",
+    "email": "peter.van-dalen@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "CU-SGP"
+  },
+  {
+    "id": "eu-489",
+    "name": "Caroline Nagtegaal",
+    "email": "caroline.nagtegaal@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "VVD"
+  },
+  {
+    "id": "eu-490",
+    "name": "Dorien Rookmaker",
+    "email": "dorien.rookmaker@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "Independent"
+  },
+  {
+    "id": "eu-491",
+    "name": "Lara Wolters",
+    "email": "lara.wolters@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-492",
+    "name": "Agnes Jongerius",
+    "email": "agnes.jongerius@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-493",
+    "name": "Thijs Reuten",
+    "email": "thijs.reuten@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PvdA-GL"
+  },
+  {
+    "id": "eu-494",
+    "name": "Derk Jan Eppink",
+    "email": "derk-jan.eppink@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "JA21"
+  },
+  {
+    "id": "eu-495",
+    "name": "Dirk Gotink",
+    "email": "dirk.gotink@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "NSC"
+  },
+  {
+    "id": "eu-496",
+    "name": "Jessika van Leeuwen",
+    "email": "jessika.van-leeuwen@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "VVD"
+  },
+  {
+    "id": "eu-497",
+    "name": "Raquel García Hermida-van der Walle",
+    "email": "raquel.garcia-hermida-van-der-walle@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "D66"
+  },
+  {
+    "id": "eu-498",
+    "name": "Barry Madlener",
+    "email": "barry.madlener@europarl.europa.eu",
+    "constituency": "Netherlands",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Netherlands",
+    "party": "PVV"
+  },
+  {
+    "id": "eu-499",
+    "name": "Ewa Kopacz",
+    "email": "ewa.kopacz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-500",
+    "name": "Jerzy Buzek",
+    "email": "jerzy.buzek@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-501",
+    "name": "Janusz Lewandowski",
+    "email": "janusz.lewandowski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-502",
+    "name": "Bartosz Arłukowicz",
+    "email": "bartosz.arukowicz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-503",
+    "name": "Bogdan Zdrojewski",
+    "email": "bogdan.zdrojewski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-504",
+    "name": "Elżbieta Łukacijewska",
+    "email": "elzbieta.ukacijewska@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-505",
+    "name": "Andrzej Halicki",
+    "email": "andrzej.halicki@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-506",
+    "name": "Krzysztof Hetman",
+    "email": "krzysztof.hetman@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PSL"
+  },
+  {
+    "id": "eu-507",
+    "name": "Adam Jarubas",
+    "email": "adam.jarubas@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PSL"
+  },
+  {
+    "id": "eu-508",
+    "name": "Jarosław Duda",
+    "email": "jarosaw.duda@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-509",
+    "name": "Dariusz Joński",
+    "email": "dariusz.jonski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-510",
+    "name": "Borys Budka",
+    "email": "borys.budka@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-511",
+    "name": "Magdalena Adamowicz",
+    "email": "magdalena.adamowicz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-512",
+    "name": "Robert Biedroń",
+    "email": "robert.biedron@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-513",
+    "name": "Łukasz Kohut",
+    "email": "ukasz.kohut@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-514",
+    "name": "Krzysztof Śmiszek",
+    "email": "krzysztof.smiszek@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-515",
+    "name": "Joanna Scheuring-Wielgus",
+    "email": "joanna.scheuring-wielgus@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-516",
+    "name": "Beata Szydło",
+    "email": "beata.szydo@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-517",
+    "name": "Ryszard Legutko",
+    "email": "ryszard.legutko@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-518",
+    "name": "Anna Zalewska",
+    "email": "anna.zalewska@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-519",
+    "name": "Patryk Jaki",
+    "email": "patryk.jaki@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Suwerenna Polska"
+  },
+  {
+    "id": "eu-520",
+    "name": "Beata Kempa",
+    "email": "beata.kempa@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Suwerenna Polska"
+  },
+  {
+    "id": "eu-521",
+    "name": "Jadwiga Wiśniewska",
+    "email": "jadwiga.wisniewska@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-522",
+    "name": "Adam Bielan",
+    "email": "adam.bielan@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-523",
+    "name": "Zbigniew Kuźmiuk",
+    "email": "zbigniew.kuzmiuk@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-524",
+    "name": "Bogdan Rzońca",
+    "email": "bogdan.rzonca@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-525",
+    "name": "Elżbieta Kruk",
+    "email": "elzbieta.kruk@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-526",
+    "name": "Jacek Saryusz-Wolski",
+    "email": "jacek.saryusz-wolski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-527",
+    "name": "Kosma Złotowski",
+    "email": "kosma.zotowski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-528",
+    "name": "Witold Waszczykowski",
+    "email": "witold.waszczykowski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-529",
+    "name": "Zdzisław Krasnodębski",
+    "email": "zdzisaw.krasnodebski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-530",
+    "name": "Dominik Tarczyński",
+    "email": "dominik.tarczynski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-531",
+    "name": "Karol Karski",
+    "email": "karol.karski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-532",
+    "name": "Tomasz Poręba",
+    "email": "tomasz.poreba@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PiS"
+  },
+  {
+    "id": "eu-533",
+    "name": "Waldemar Tomaszewski",
+    "email": "waldemar.tomaszewski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "AWPL"
+  },
+  {
+    "id": "eu-534",
+    "name": "Dariusz Rosati",
+    "email": "dariusz.rosati@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-535",
+    "name": "Michał Szczerba",
+    "email": "micha.szczerba@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-536",
+    "name": "Kamila Gasiuk-Pihowicz",
+    "email": "kamila.gasiuk-pihowicz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-537",
+    "name": "Hanna Gronkiewicz-Waltz",
+    "email": "hanna.gronkiewicz-waltz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-538",
+    "name": "Marta Wcisło",
+    "email": "marta.wciso@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-539",
+    "name": "Michał Kobosko",
+    "email": "micha.kobosko@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Polska 2050"
+  },
+  {
+    "id": "eu-540",
+    "name": "Ryszard Petru",
+    "email": "ryszard.petru@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Polska 2050"
+  },
+  {
+    "id": "eu-541",
+    "name": "Joanna Mucha",
+    "email": "joanna.mucha@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Polska 2050"
+  },
+  {
+    "id": "eu-542",
+    "name": "Krzysztof Brejza",
+    "email": "krzysztof.brejza@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-543",
+    "name": "Marcin Sypniewski",
+    "email": "marcin.sypniewski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-544",
+    "name": "Ewa Zajączkowska-Hernik",
+    "email": "ewa.zajaczkowska-hernik@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-545",
+    "name": "Grzegorz Braun",
+    "email": "grzegorz.braun@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-546",
+    "name": "Stanisław Tyszka",
+    "email": "stanisaw.tyszka@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-547",
+    "name": "Anna Bryłka",
+    "email": "anna.bryka@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-548",
+    "name": "Tomasz Froelich",
+    "email": "tomasz.froelich@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Konfederacja"
+  },
+  {
+    "id": "eu-549",
+    "name": "Rafał Trzaskowski",
+    "email": "rafa.trzaskowski@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "PO"
+  },
+  {
+    "id": "eu-550",
+    "name": "Marek Belka",
+    "email": "marek.belka@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-551",
+    "name": "Włodzimierz Cimoszewicz",
+    "email": "wodzimierz.cimoszewicz@europarl.europa.eu",
+    "constituency": "Poland",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Poland",
+    "party": "Nowa Lewica"
+  },
+  {
+    "id": "eu-552",
+    "name": "Paulo Rangel",
+    "email": "paulo.rangel@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-553",
+    "name": "Lídia Pereira",
+    "email": "lidia.pereira@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-554",
+    "name": "Sebastião Bugalho",
+    "email": "sebastiao.bugalho@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "AD"
+  },
+  {
+    "id": "eu-555",
+    "name": "Carlos Coelho",
+    "email": "carlos.coelho@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-556",
+    "name": "José Manuel Fernandes",
+    "email": "jose.manuel-fernandes@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-557",
+    "name": "Cláudia Monteiro de Aguiar",
+    "email": "claudia.monteiro-de-aguiar@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-558",
+    "name": "António Tânger Corrêa",
+    "email": "antonio.tanger-correa@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "Chega"
+  },
+  {
+    "id": "eu-559",
+    "name": "Tiago Moreira de Sá",
+    "email": "tiago.moreira-de-sa@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "Chega"
+  },
+  {
+    "id": "eu-560",
+    "name": "Isabel Santos",
+    "email": "isabel.santos@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-561",
+    "name": "Ana Catarina Mendes",
+    "email": "ana.catarina-mendes@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-562",
+    "name": "Pedro Marques",
+    "email": "pedro.marques@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-563",
+    "name": "Francisco Assis",
+    "email": "francisco.assis@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-564",
+    "name": "Pedro Silva Pereira",
+    "email": "pedro.silva-pereira@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-565",
+    "name": "Sara Cerdas",
+    "email": "sara.cerdas@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-566",
+    "name": "Maria-Manuel Leitão-Marques",
+    "email": "maria-manuel.leitao-marques@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-567",
+    "name": "João Oliveira",
+    "email": "joao.oliveira@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PCP"
+  },
+  {
+    "id": "eu-568",
+    "name": "Sandra Pereira",
+    "email": "sandra.pereira@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PCP"
+  },
+  {
+    "id": "eu-569",
+    "name": "Catarina Martins",
+    "email": "catarina.martins@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "BE"
+  },
+  {
+    "id": "eu-570",
+    "name": "Francisco Guerreiro",
+    "email": "francisco.guerreiro@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "Livre"
+  },
+  {
+    "id": "eu-571",
+    "name": "Marta Temido",
+    "email": "marta.temido@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-572",
+    "name": "Sérgio Gonçalves",
+    "email": "sergio.goncalves@europarl.europa.eu",
+    "constituency": "Portugal",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Portugal",
+    "party": "PS"
+  },
+  {
+    "id": "eu-573",
+    "name": "Siegfried Mureşan",
+    "email": "siegfried.muresan@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-574",
+    "name": "Adina-Ioana Vălean",
+    "email": "adina-ioana.valean@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-575",
+    "name": "Daniel Buda",
+    "email": "daniel.buda@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-576",
+    "name": "Vasile Blaga",
+    "email": "vasile.blaga@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-577",
+    "name": "Cristian-Silviu Buşoi",
+    "email": "cristian-silviu.busoi@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-578",
+    "name": "Rareș Bogdan",
+    "email": "rares.bogdan@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-579",
+    "name": "Traian Băsescu",
+    "email": "traian.basescu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PMP"
+  },
+  {
+    "id": "eu-580",
+    "name": "Mihai Tudose",
+    "email": "mihai.tudose@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-581",
+    "name": "Victor Negrescu",
+    "email": "victor.negrescu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-582",
+    "name": "Gabriela Firea",
+    "email": "gabriela.firea@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-583",
+    "name": "Dan Nica",
+    "email": "dan.nica@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-584",
+    "name": "Carmen Avram",
+    "email": "carmen.avram@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-585",
+    "name": "Adrian-Dragoş Benea",
+    "email": "adrian-dragos.benea@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-586",
+    "name": "Tudor Ciuhodaru",
+    "email": "tudor.ciuhodaru@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-587",
+    "name": "Vasile Dîncu",
+    "email": "vasile.dincu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-588",
+    "name": "Andi Cristea",
+    "email": "andi.cristea@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-589",
+    "name": "Corina Crețu",
+    "email": "corina.cretu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-590",
+    "name": "Rovana Plumb",
+    "email": "rovana.plumb@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-591",
+    "name": "Claudiu Manda",
+    "email": "claudiu.manda@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PSD"
+  },
+  {
+    "id": "eu-592",
+    "name": "Elena Lasconi",
+    "email": "elena.lasconi@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "USR"
+  },
+  {
+    "id": "eu-593",
+    "name": "Vlad Gheorghe",
+    "email": "vlad.gheorghe@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "USR"
+  },
+  {
+    "id": "eu-594",
+    "name": "Dragoș Tudorache",
+    "email": "dragos.tudorache@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "REPER"
+  },
+  {
+    "id": "eu-595",
+    "name": "Nicu Ștefănuță",
+    "email": "nicu.stefanuta@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "REPER"
+  },
+  {
+    "id": "eu-596",
+    "name": "Ramona Strugariu",
+    "email": "ramona.strugariu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "REPER"
+  },
+  {
+    "id": "eu-597",
+    "name": "Cristian Terheș",
+    "email": "cristian.terhes@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNȚCD"
+  },
+  {
+    "id": "eu-598",
+    "name": "Eugen Tomac",
+    "email": "eugen.tomac@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PMP"
+  },
+  {
+    "id": "eu-599",
+    "name": "Diana Șoșoacă",
+    "email": "diana.sosoaca@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "SOS"
+  },
+  {
+    "id": "eu-600",
+    "name": "Gheorghe Piperea",
+    "email": "gheorghe.piperea@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "SOS"
+  },
+  {
+    "id": "eu-601",
+    "name": "Claudiu Târziu",
+    "email": "claudiu.tarziu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "AUR"
+  },
+  {
+    "id": "eu-602",
+    "name": "George Simion",
+    "email": "george.simion@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "AUR"
+  },
+  {
+    "id": "eu-603",
+    "name": "Alin Mituță",
+    "email": "alin.mituta@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "REPER"
+  },
+  {
+    "id": "eu-604",
+    "name": "Dan Motreanu",
+    "email": "dan.motreanu@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-605",
+    "name": "Gheorghe Falcă",
+    "email": "gheorghe.falca@europarl.europa.eu",
+    "constituency": "Romania",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Romania",
+    "party": "PNL"
+  },
+  {
+    "id": "eu-606",
+    "name": "Miriam Lexmann",
+    "email": "miriam.lexmann@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "KDH"
+  },
+  {
+    "id": "eu-607",
+    "name": "Ivan Štefanec",
+    "email": "ivan.stefanec@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "KDH"
+  },
+  {
+    "id": "eu-608",
+    "name": "Vladimír Bilčík",
+    "email": "vladimir.bilcik@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "SPOLU"
+  },
+  {
+    "id": "eu-609",
+    "name": "Ľudovít Ódor",
+    "email": "ludovit.odor@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "PS"
+  },
+  {
+    "id": "eu-610",
+    "name": "Michal Wiezik",
+    "email": "michal.wiezik@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "PS"
+  },
+  {
+    "id": "eu-611",
+    "name": "Monika Beňová",
+    "email": "monika.benova@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Smer-SD"
+  },
+  {
+    "id": "eu-612",
+    "name": "Katarína Roth Neveďalová",
+    "email": "katarina.roth-nevedalova@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Smer-SD"
+  },
+  {
+    "id": "eu-613",
+    "name": "Erik Kaliňák",
+    "email": "erik.kalinak@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Smer-SD"
+  },
+  {
+    "id": "eu-614",
+    "name": "Ľuboš Blaha",
+    "email": "lubos.blaha@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Smer-SD"
+  },
+  {
+    "id": "eu-615",
+    "name": "Milan Uhrík",
+    "email": "milan.uhrik@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Republika"
+  },
+  {
+    "id": "eu-616",
+    "name": "Milan Mazurek",
+    "email": "milan.mazurek@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Republika"
+  },
+  {
+    "id": "eu-617",
+    "name": "Branislav Ondruš",
+    "email": "branislav.ondrus@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "Hlas-SD"
+  },
+  {
+    "id": "eu-618",
+    "name": "Peter Pollák",
+    "email": "peter.pollak@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "OĽaNO"
+  },
+  {
+    "id": "eu-619",
+    "name": "Lucia Ďuriš Nicholsonová",
+    "email": "lucia.duris-nicholsonova@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "SaS"
+  },
+  {
+    "id": "eu-620",
+    "name": "Eugen Jurzyca",
+    "email": "eugen.jurzyca@europarl.europa.eu",
+    "constituency": "Slovakia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovakia",
+    "party": "SaS"
+  },
+  {
+    "id": "eu-621",
+    "name": "Romana Tomc",
+    "email": "romana.tomc@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SDS"
+  },
+  {
+    "id": "eu-622",
+    "name": "Milan Zver",
+    "email": "milan.zver@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SDS"
+  },
+  {
+    "id": "eu-623",
+    "name": "Franc Bogovič",
+    "email": "franc.bogovic@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SLS"
+  },
+  {
+    "id": "eu-624",
+    "name": "Matej Tonin",
+    "email": "matej.tonin@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "NSi"
+  },
+  {
+    "id": "eu-625",
+    "name": "Irena Joveva",
+    "email": "irena.joveva@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "GS"
+  },
+  {
+    "id": "eu-626",
+    "name": "Marjan Šarec",
+    "email": "marjan.sarec@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "GS"
+  },
+  {
+    "id": "eu-627",
+    "name": "Matjaž Nemec",
+    "email": "matjaz.nemec@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SD"
+  },
+  {
+    "id": "eu-628",
+    "name": "Zala Tomašič",
+    "email": "zala.tomasic@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SDS"
+  },
+  {
+    "id": "eu-629",
+    "name": "Anja Bah Žibert",
+    "email": "anja.bah-zibert@europarl.europa.eu",
+    "constituency": "Slovenia",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Slovenia",
+    "party": "SDS"
+  },
+  {
+    "id": "eu-630",
+    "name": "Dolors Montserrat",
+    "email": "dolors.montserrat@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-631",
+    "name": "Esteban González Pons",
+    "email": "esteban.gonzalez-pons@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-632",
+    "name": "Juan Ignacio Zoido Álvarez",
+    "email": "juan-ignacio.zoido-alvarez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-633",
+    "name": "Pilar del Castillo Vera",
+    "email": "pilar.del-castillo-vera@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-634",
+    "name": "Antonio López-Istúriz White",
+    "email": "antonio.lopez-isturiz-white@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-635",
+    "name": "Gabriel Mato",
+    "email": "gabriel.mato@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-636",
+    "name": "José Manuel García-Margallo",
+    "email": "jose-manuel.garcia-margallo@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-637",
+    "name": "Rosa Estaràs Ferragut",
+    "email": "rosa.estaras-ferragut@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-638",
+    "name": "Francisco José Millán Mon",
+    "email": "francisco-jose.millan-mon@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-639",
+    "name": "Esther Herranz García",
+    "email": "esther.herranz-garcia@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-640",
+    "name": "Pablo Arias Echevarría",
+    "email": "pablo.arias-echevarria@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-641",
+    "name": "Susana Solís Pérez",
+    "email": "susana.solis-perez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-642",
+    "name": "Adrián Vázquez Lázara",
+    "email": "adrian.vazquez-lazara@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Ciudadanos"
+  },
+  {
+    "id": "eu-643",
+    "name": "Javier Nart",
+    "email": "javier.nart@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Ciudadanos"
+  },
+  {
+    "id": "eu-644",
+    "name": "Juan Carlos Girauta",
+    "email": "juan-carlos.girauta@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Ciudadanos"
+  },
+  {
+    "id": "eu-645",
+    "name": "Iratxe García Pérez",
+    "email": "iratxe.garcia-perez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-646",
+    "name": "Jonás Fernández",
+    "email": "jonas.fernandez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-647",
+    "name": "Javier Moreno Sánchez",
+    "email": "javier.moreno-sanchez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-648",
+    "name": "Lina Gálvez",
+    "email": "lina.galvez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-649",
+    "name": "Marcos Ros Sempere",
+    "email": "marcos.ros-sempere@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-650",
+    "name": "César Luena",
+    "email": "cesar.luena@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-651",
+    "name": "Nicolás González Casares",
+    "email": "nicolas.gonzalez-casares@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-652",
+    "name": "Alicia Homs Ginel",
+    "email": "alicia.homs-ginel@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-653",
+    "name": "Cristina Maestre",
+    "email": "cristina.maestre@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-654",
+    "name": "Estrella Durá Ferrandis",
+    "email": "estrella.dura-ferrandis@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-655",
+    "name": "Jorge Pueyo",
+    "email": "jorge.pueyo@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Sumar"
+  },
+  {
+    "id": "eu-656",
+    "name": "Irene Montero",
+    "email": "irene.montero@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Podemos"
+  },
+  {
+    "id": "eu-657",
+    "name": "Pernando Barrena",
+    "email": "pernando.barrena@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "EH Bildu"
+  },
+  {
+    "id": "eu-658",
+    "name": "Ana Miranda Paz",
+    "email": "ana.miranda-paz@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "BNG"
+  },
+  {
+    "id": "eu-659",
+    "name": "Jordi Solé",
+    "email": "jordi.sole@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "ERC"
+  },
+  {
+    "id": "eu-660",
+    "name": "Diana Riba i Giner",
+    "email": "diana.riba-i-giner@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "ERC"
+  },
+  {
+    "id": "eu-661",
+    "name": "Santiago Abascal",
+    "email": "santiago.abascal@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Vox"
+  },
+  {
+    "id": "eu-662",
+    "name": "Jorge Buxadé Villalba",
+    "email": "jorge.buxade-villalba@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Vox"
+  },
+  {
+    "id": "eu-663",
+    "name": "Hermann Tertsch",
+    "email": "hermann.tertsch@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Vox"
+  },
+  {
+    "id": "eu-664",
+    "name": "Mazaly Aguilar",
+    "email": "mazaly.aguilar@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Vox"
+  },
+  {
+    "id": "eu-665",
+    "name": "Margarita de la Pisa Carrión",
+    "email": "margarita.de-la-pisa-carrion@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Vox"
+  },
+  {
+    "id": "eu-666",
+    "name": "Antoni Comín",
+    "email": "antoni.comin@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "JxCat"
+  },
+  {
+    "id": "eu-667",
+    "name": "Carles Puigdemont",
+    "email": "carles.puigdemont@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "JxCat"
+  },
+  {
+    "id": "eu-668",
+    "name": "Clara Ponsatí",
+    "email": "clara.ponsati@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "JxCat"
+  },
+  {
+    "id": "eu-669",
+    "name": "Sira Rego",
+    "email": "sira.rego@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "IU/Podemos"
+  },
+  {
+    "id": "eu-670",
+    "name": "Manu Pineda",
+    "email": "manu.pineda@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "IU"
+  },
+  {
+    "id": "eu-671",
+    "name": "Idoia Villanueva Ruiz",
+    "email": "idoia.villanueva-ruiz@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Podemos"
+  },
+  {
+    "id": "eu-672",
+    "name": "Juan Fernando López Aguilar",
+    "email": "juan-fernando.lopez-aguilar@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-673",
+    "name": "Isabel García Muñoz",
+    "email": "isabel.garcia-munoz@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-674",
+    "name": "Ibán García del Blanco",
+    "email": "iban.garcia-del-blanco@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-675",
+    "name": "Leire Pajín",
+    "email": "leire.pajin@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-676",
+    "name": "Javi López",
+    "email": "javi.lopez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-677",
+    "name": "Clara Aguilera",
+    "email": "clara.aguilera@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-678",
+    "name": "Inmaculada Rodríguez-Piñero",
+    "email": "inmaculada.rodriguez-pinero@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PSOE"
+  },
+  {
+    "id": "eu-679",
+    "name": "Miguel Urbán Crespo",
+    "email": "miguel.urban-crespo@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Podemos"
+  },
+  {
+    "id": "eu-680",
+    "name": "Toni Comín",
+    "email": "toni.comin@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "JxCat"
+  },
+  {
+    "id": "eu-681",
+    "name": "Maria Eugenia Rodríguez Palop",
+    "email": "maria-eugenia.rodriguez-palop@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Sumar"
+  },
+  {
+    "id": "eu-682",
+    "name": "María Soraya Rodríguez",
+    "email": "maria.soraya-rodriguez@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Ciudadanos"
+  },
+  {
+    "id": "eu-683",
+    "name": "Maite Pagazaurtundúa",
+    "email": "maite.pagazaurtundua@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "Ciudadanos"
+  },
+  {
+    "id": "eu-684",
+    "name": "Leopoldo López Gil",
+    "email": "leopoldo.lopez-gil@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-685",
+    "name": "Isabel Benjumea Benjumea",
+    "email": "isabel.benjumea-benjumea@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-686",
+    "name": "Arantxa Garza",
+    "email": "arantxa.garza@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-687",
+    "name": "Cuca Gamarra",
+    "email": "cuca.gamarra@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-688",
+    "name": "Miguel Tellado",
+    "email": "miguel.tellado@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-689",
+    "name": "Raúl de la Hoz",
+    "email": "raul.de-la-hoz@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-690",
+    "name": "Alma Ezcurra",
+    "email": "alma.ezcurra@europarl.europa.eu",
+    "constituency": "Spain",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Spain",
+    "party": "PP"
+  },
+  {
+    "id": "eu-691",
+    "name": "Tomas Tobé",
+    "email": "tomas.tobe@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Moderaterna"
+  },
+  {
+    "id": "eu-692",
+    "name": "Jessica Polfjärd",
+    "email": "jessica.polfjard@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Moderaterna"
+  },
+  {
+    "id": "eu-693",
+    "name": "Sara Skyttedal",
+    "email": "sara.skyttedal@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "KD"
+  },
+  {
+    "id": "eu-694",
+    "name": "David Lega",
+    "email": "david.lega@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "KD"
+  },
+  {
+    "id": "eu-695",
+    "name": "Charlie Weimers",
+    "email": "charlie.weimers@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SD"
+  },
+  {
+    "id": "eu-696",
+    "name": "Isabella Lövin",
+    "email": "isabella.lovin@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "MP"
+  },
+  {
+    "id": "eu-697",
+    "name": "Alice Kuhnke",
+    "email": "alice.kuhnke@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "MP"
+  },
+  {
+    "id": "eu-698",
+    "name": "Pär Holmgren",
+    "email": "par.holmgren@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "MP"
+  },
+  {
+    "id": "eu-699",
+    "name": "Heléne Fritzon",
+    "email": "helene.fritzon@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SAP"
+  },
+  {
+    "id": "eu-700",
+    "name": "Johan Danielsson",
+    "email": "johan.danielsson@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SAP"
+  },
+  {
+    "id": "eu-701",
+    "name": "Evin Incir",
+    "email": "evin.incir@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SAP"
+  },
+  {
+    "id": "eu-702",
+    "name": "Erik Bergkvist",
+    "email": "erik.bergkvist@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SAP"
+  },
+  {
+    "id": "eu-703",
+    "name": "Jonas Sjöstedt",
+    "email": "jonas.sjostedt@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Vänsterpartiet"
+  },
+  {
+    "id": "eu-704",
+    "name": "Emma Wiesner",
+    "email": "emma.wiesner@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Centerpartiet"
+  },
+  {
+    "id": "eu-705",
+    "name": "Abir Al-Sahlani",
+    "email": "abir.al-sahlani@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Centerpartiet"
+  },
+  {
+    "id": "eu-706",
+    "name": "Karin Karlsbro",
+    "email": "karin.karlsbro@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Liberalerna"
+  },
+  {
+    "id": "eu-707",
+    "name": "Jörgen Warborn",
+    "email": "jorgen.warborn@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "Moderaterna"
+  },
+  {
+    "id": "eu-708",
+    "name": "Peter Lundgren",
+    "email": "peter.lundgren@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SD"
+  },
+  {
+    "id": "eu-709",
+    "name": "Mattias Karlsson",
+    "email": "mattias.karlsson@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SD"
+  },
+  {
+    "id": "eu-710",
+    "name": "Jakop Dalunde",
+    "email": "jakop.dalunde@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "MP"
+  },
+  {
+    "id": "eu-711",
+    "name": "Carina Ohlsson",
+    "email": "carina.ohlsson@europarl.europa.eu",
+    "constituency": "Sweden",
+    "country_code": "EU",
+    "chamber": "European Parliament",
+    "member_state": "Sweden",
+    "party": "SAP"
+  }
+]

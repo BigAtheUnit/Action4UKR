@@ -1,0 +1,4602 @@
+[
+  {
+    "id": "fr-1",
+    "name": "Audrey Abadie-Amiel",
+    "email": "aabadie-amiel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-2",
+    "name": "Nadège Abomangoli",
+    "email": "nabomangoli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-3",
+    "name": "Xavier Albertini",
+    "email": "xalbertini@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-4",
+    "name": "Laurent Alexandre",
+    "email": "lalexandre@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-5",
+    "name": "Henri Alfandari",
+    "email": "halfandari@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-6",
+    "name": "Alexandre Allegret-Pilot",
+    "email": "aallegret-pilot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-7",
+    "name": "Marie-José Allemand",
+    "email": "mjallemand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-8",
+    "name": "Franck Allisio",
+    "email": "fallisio@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-9",
+    "name": "Charles Alloncle",
+    "email": "calloncle@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-10",
+    "name": "Gabriel Amard",
+    "email": "gamard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-11",
+    "name": "Maxime Amblard",
+    "email": "mamblard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-12",
+    "name": "Ségolène Amiot",
+    "email": "samiot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-13",
+    "name": "Pouria Amirshahi",
+    "email": "pamirshahi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-14",
+    "name": "Farida Amrani",
+    "email": "famrani@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-15",
+    "name": "Pieyre-Alexandre Anglade",
+    "email": "paanglade@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-16",
+    "name": "Rodrigo Arenas",
+    "email": "rarenas@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-17",
+    "name": "Antoine Armand",
+    "email": "aarmand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-18",
+    "name": "Raphaël Arnault",
+    "email": "rarnault@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-19",
+    "name": "Christine Arrighi",
+    "email": "carrighi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-20",
+    "name": "Gabriel Attal",
+    "email": "gattal@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-21",
+    "name": "Clémentine Autain",
+    "email": "cautain@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-22",
+    "name": "Bénédicte Auzanot",
+    "email": "bauzanot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-23",
+    "name": "Joël Aviragnet",
+    "email": "javiragnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-24",
+    "name": "Léa Balage El Mariky",
+    "email": "lbalageelmariky@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-25",
+    "name": "Erwan Balanant",
+    "email": "ebalanant@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-26",
+    "name": "Philippe Ballard",
+    "email": "pballard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-27",
+    "name": "Anchya Bamana",
+    "email": "abamana@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-28",
+    "name": "Géraldine Bannier",
+    "email": "gbannier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-29",
+    "name": "Christian Baptiste",
+    "email": "cbaptiste@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-30",
+    "name": "Michel Barnier",
+    "email": "mbarnier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-31",
+    "name": "Christophe Barthès",
+    "email": "cbarthes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-32",
+    "name": "Fabrice Barusseau",
+    "email": "fbarusseau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-33",
+    "name": "Jean-Pierre Bataille",
+    "email": "jpbataille@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-34",
+    "name": "Delphine Batho",
+    "email": "dbatho@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-35",
+    "name": "Marie-Noëlle Battistel",
+    "email": "mnbattistel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-36",
+    "name": "Romain Baubry",
+    "email": "rbaubry@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-37",
+    "name": "Laurent Baumel",
+    "email": "lbaumel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-38",
+    "name": "Thibault Bazin",
+    "email": "tbazin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-39",
+    "name": "Valérie Bazin-Malgras",
+    "email": "vbazin-malgras@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-40",
+    "name": "José Beaurain",
+    "email": "jbeaurain@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-41",
+    "name": "Olivier Becht",
+    "email": "obecht@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-42",
+    "name": "Belkhir Belhaddad",
+    "email": "bbelhaddad@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-43",
+    "name": "Béatrice Bellamy",
+    "email": "bbellamy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-44",
+    "name": "Béatrice Bellay",
+    "email": "bbellay@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-45",
+    "name": "Lisa Belluco",
+    "email": "lbelluco@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-46",
+    "name": "Anaïs Belouassa-Cherifi",
+    "email": "abelouassa-cherifi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-47",
+    "name": "Édouard Bénard",
+    "email": "ebenard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-48",
+    "name": "Karim Benbrahim",
+    "email": "kbenbrahim@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-49",
+    "name": "Karim Ben Cheikh",
+    "email": "kbencheikh@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-50",
+    "name": "Thierry Benoit",
+    "email": "tbenoit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-51",
+    "name": "Christophe Bentz",
+    "email": "cbentz@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-52",
+    "name": "Anne Bergantz",
+    "email": "abergantz@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-53",
+    "name": "Jean-Didier Berger",
+    "email": "jdberger@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-54",
+    "name": "Ugo Bernalicis",
+    "email": "ubernalicis@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-55",
+    "name": "Théo Bernhardt",
+    "email": "tbernhardt@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-56",
+    "name": "Sylvain Berrios",
+    "email": "sberrios@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-57",
+    "name": "Hervé Berville",
+    "email": "hberville@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-58",
+    "name": "Véronique Besse",
+    "email": "vbesse@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-59",
+    "name": "Christophe Bex",
+    "email": "cbex@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-60",
+    "name": "Guillaume Bigot",
+    "email": "gbigot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-61",
+    "name": "Bruno Bilde",
+    "email": "bbilde@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-62",
+    "name": "Carlos Martens Bilongo",
+    "email": "cmartensbilongo@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-63",
+    "name": "Benoît Biteau",
+    "email": "bbiteau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-64",
+    "name": "Emmanuel Blairy",
+    "email": "eblairy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-65",
+    "name": "Sophie Blanc",
+    "email": "sblanc@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-66",
+    "name": "Benoît Blanchard",
+    "email": "bblanchard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-67",
+    "name": "Christophe Blanchet",
+    "email": "cblanchet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-68",
+    "name": "Anne-Laure Blin",
+    "email": "alblin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-69",
+    "name": "Matthieu Bloch",
+    "email": "mbloch@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-70",
+    "name": "Frédéric Boccaletti",
+    "email": "fboccaletti@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-71",
+    "name": "Philippe Bolo",
+    "email": "pbolo@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-72",
+    "name": "Manuel Bompard",
+    "email": "mbompard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-73",
+    "name": "Philippe Bonnecarrère",
+    "email": "pbonnecarrere@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-74",
+    "name": "Arnaud Bonnet",
+    "email": "abonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-75",
+    "name": "Nicolas Bonnet",
+    "email": "nbonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-76",
+    "name": "Sylvie Bonnet",
+    "email": "sbonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-77",
+    "name": "Émilie Bonnivard",
+    "email": "ebonnivard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-78",
+    "name": "Jean-Yves Bony",
+    "email": "jybony@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-79",
+    "name": "Pascale Bordes",
+    "email": "pbordes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-80",
+    "name": "Élisabeth Borne",
+    "email": "eborne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-81",
+    "name": "Éric Bothorel",
+    "email": "ebothorel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-82",
+    "name": "Ian Boucard",
+    "email": "iboucard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-83",
+    "name": "Florent Boudié",
+    "email": "fboudie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-84",
+    "name": "Anthony Boulogne",
+    "email": "aboulogne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-85",
+    "name": "Mickaël Bouloux",
+    "email": "mbouloux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-86",
+    "name": "Idir Boumertit",
+    "email": "iboumertit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-87",
+    "name": "Manon Bouquin",
+    "email": "mbouquin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-88",
+    "name": "Jean-Luc Bourgeaux",
+    "email": "jlbourgeaux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-89",
+    "name": "Soumya Bourouaha",
+    "email": "sbourouaha@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-90",
+    "name": "Bertrand Bouyx",
+    "email": "bbouyx@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-91",
+    "name": "Jorys Bovet",
+    "email": "jbovet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-92",
+    "name": "Louis Boyard",
+    "email": "lboyard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-93",
+    "name": "Jean-Michel Brard",
+    "email": "jmbrard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-94",
+    "name": "Yaël Braun-Pivet",
+    "email": "ybraun-pivet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-95",
+    "name": "Xavier Breton",
+    "email": "xbreton@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-96",
+    "name": "Hubert Brigand",
+    "email": "hbrigand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-97",
+    "name": "Blandine Brocard",
+    "email": "bbrocard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-98",
+    "name": "Anthony Brosse",
+    "email": "abrosse@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-99",
+    "name": "Julien Brugerolles",
+    "email": "jbrugerolles@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-100",
+    "name": "Danielle Brulebois",
+    "email": "dbrulebois@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-101",
+    "name": "Joël Bruneau",
+    "email": "jbruneau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-102",
+    "name": "Fabrice Brun",
+    "email": "fbrun@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-103",
+    "name": "Philippe Brun",
+    "email": "pbrun@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-104",
+    "name": "Stéphane Buchou",
+    "email": "sbuchou@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-105",
+    "name": "Françoise Buffet",
+    "email": "fbuffet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-106",
+    "name": "Jérôme Buisson",
+    "email": "jbuisson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-107",
+    "name": "Pierre-Yves Cadalen",
+    "email": "pycadalen@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-108",
+    "name": "Elie Califer",
+    "email": "ecalifer@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-109",
+    "name": "Céline Calvez",
+    "email": "ccalvez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-110",
+    "name": "Colette Capdevielle",
+    "email": "ccapdevielle@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-111",
+    "name": "Pierre-Henri Carbonnel",
+    "email": "phcarbonnel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-112",
+    "name": "Aymeric Caron",
+    "email": "acaron@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-113",
+    "name": "Sylvain Carrière",
+    "email": "scarriere@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-114",
+    "name": "Michel Castellani",
+    "email": "mcastellani@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-115",
+    "name": "Eddy Casterman",
+    "email": "ecasterman@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-116",
+    "name": "Jean-Victor Castor",
+    "email": "jvcastor@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-117",
+    "name": "Gabrielle Cathala",
+    "email": "gcathala@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-118",
+    "name": "Vincent Caure",
+    "email": "vcaure@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-119",
+    "name": "Lionel Causse",
+    "email": "lcausse@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-120",
+    "name": "Thomas Cazenave",
+    "email": "tcazenave@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-121",
+    "name": "Jean-René Cazeneuve",
+    "email": "jrcazeneuve@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-122",
+    "name": "Pierre Cazeneuve",
+    "email": "pcazeneuve@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-123",
+    "name": "François-Xavier Ceccoli",
+    "email": "fxceccoli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-124",
+    "name": "Bérenger Cernon",
+    "email": "bcernon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-125",
+    "name": "Bernard Chaix",
+    "email": "bchaix@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-126",
+    "name": "Cyrielle Chatelain",
+    "email": "cchatelain@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-127",
+    "name": "Marc Chavent",
+    "email": "mchavent@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-128",
+    "name": "Yannick Chenevard",
+    "email": "ychenevard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-129",
+    "name": "Sébastien Chenu",
+    "email": "schenu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-130",
+    "name": "Sophia Chikirou",
+    "email": "schikirou@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-131",
+    "name": "Paul Christophe",
+    "email": "pchristophe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-132",
+    "name": "Paul Christophle",
+    "email": "pchristophle@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-133",
+    "name": "Roger Chudeau",
+    "email": "rchudeau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-134",
+    "name": "Éric Ciotti",
+    "email": "eciotti@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-135",
+    "name": "Bruno Clavet",
+    "email": "bclavet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-136",
+    "name": "Hadrien Clouet",
+    "email": "hclouet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-137",
+    "name": "Nathalie Coggia",
+    "email": "ncoggia@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-138",
+    "name": "Nathalie Colin-Oesterlé",
+    "email": "ncolin-oesterle@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-139",
+    "name": "Paul-André Colombani",
+    "email": "pacolombani@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-140",
+    "name": "Caroline Colombier",
+    "email": "ccolombier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-141",
+    "name": "Éric Coquerel",
+    "email": "ecoquerel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-142",
+    "name": "Alexis Corbière",
+    "email": "acorbiere@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-143",
+    "name": "Pierre Cordier",
+    "email": "pcordier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-144",
+    "name": "François Cormier-Bouligeon",
+    "email": "fcormier-bouligeon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-145",
+    "name": "Josiane Corneloup",
+    "email": "jcorneloup@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-146",
+    "name": "Mickaël Cosson",
+    "email": "mcosson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-147",
+    "name": "Jean-François Coulomme",
+    "email": "jfcoulomme@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-148",
+    "name": "Pierrick Courbon",
+    "email": "pcourbon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-149",
+    "name": "Charles de Courson",
+    "email": "cdecourson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-150",
+    "name": "Michel Criaud",
+    "email": "mcriaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-151",
+    "name": "Laurent Croizier",
+    "email": "lcroizier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-152",
+    "name": "Christelle D'Intorni",
+    "email": "cd'intorni@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-153",
+    "name": "Nathalie Da Conceicao Carvalho",
+    "email": "ndaconceicaocarvalho@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-154",
+    "name": "Marie-Christine Dalloz",
+    "email": "mcdalloz@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-155",
+    "name": "Geneviève Darrieussecq",
+    "email": "gdarrieussecq@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-156",
+    "name": "Romain Daubié",
+    "email": "rdaubie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-157",
+    "name": "Hendrik Davi",
+    "email": "hdavi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-158",
+    "name": "Alain David",
+    "email": "adavid@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-159",
+    "name": "Sandra Delannoy",
+    "email": "sdelannoy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-160",
+    "name": "Arthur Delaporte",
+    "email": "adelaporte@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-161",
+    "name": "Stéphane Delautrette",
+    "email": "sdelautrette@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-162",
+    "name": "Sébastien Delogu",
+    "email": "sdelogu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-163",
+    "name": "Julie Delpech",
+    "email": "jdelpech@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-164",
+    "name": "Vincent Descoeur",
+    "email": "vdescoeur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-165",
+    "name": "Jocelyn Dessigny",
+    "email": "jdessigny@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-166",
+    "name": "Fabien Di Filippo",
+    "email": "fdifilippo@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-167",
+    "name": "Edwige Diaz",
+    "email": "ediaz@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-168",
+    "name": "Dieynaba Diop",
+    "email": "ddiop@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-169",
+    "name": "Aly Diouara",
+    "email": "adiouara@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-170",
+    "name": "Benjamin Dirx",
+    "email": "bdirx@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-171",
+    "name": "Julien Dive",
+    "email": "jdive@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-172",
+    "name": "Sandrine Dogor-Such",
+    "email": "sdogor-such@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-173",
+    "name": "Fanny Dombre Coste",
+    "email": "fdombrecoste@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-174",
+    "name": "Nicolas Dragon",
+    "email": "ndragon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-175",
+    "name": "Nicole Dubré-Chirat",
+    "email": "ndubre-chirat@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-176",
+    "name": "Virginie Duby-Muller",
+    "email": "vduby-muller@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-177",
+    "name": "Peio Dufau",
+    "email": "pdufau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-178",
+    "name": "Alexandre Dufosset",
+    "email": "adufosset@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-179",
+    "name": "Alma Dufour",
+    "email": "adufour@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-180",
+    "name": "Lionel Duparay",
+    "email": "lduparay@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-181",
+    "name": "Emmanuel Duplessy",
+    "email": "eduplessy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-182",
+    "name": "Stella Dupont",
+    "email": "sdupont@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-183",
+    "name": "Gaëtan Dussausaye",
+    "email": "gdussausaye@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-184",
+    "name": "Aurélien Dutremble",
+    "email": "adutremble@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-185",
+    "name": "Inaki Echaniz",
+    "email": "iechaniz@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-186",
+    "name": "Christine Engrand",
+    "email": "cengrand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-187",
+    "name": "Karen Erodi",
+    "email": "kerodi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-188",
+    "name": "Sophie Errante",
+    "email": "serrante@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-189",
+    "name": "Romain Eskenazi",
+    "email": "reskenazi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-190",
+    "name": "Auguste Evrard",
+    "email": "aevrard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-191",
+    "name": "Philippe Fait",
+    "email": "pfait@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-192",
+    "name": "Frédéric Falcon",
+    "email": "ffalcon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-193",
+    "name": "Olivier Falorni",
+    "email": "ofalorni@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-194",
+    "name": "Elsa Faucillon",
+    "email": "efaucillon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-195",
+    "name": "Olivier Faure",
+    "email": "ofaure@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-196",
+    "name": "Yannick Favennec-Bécot",
+    "email": "yfavennec-becot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-197",
+    "name": "Olivier Fayssat",
+    "email": "ofayssat@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-198",
+    "name": "Denis Fégné",
+    "email": "dfegne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-199",
+    "name": "Mathilde Feld",
+    "email": "mfeld@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-200",
+    "name": "Emmanuel Fernandes",
+    "email": "efernandes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-201",
+    "name": "Marc Ferracci",
+    "email": "mferracci@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-202",
+    "name": "Sylvie Ferrer",
+    "email": "sferrer@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-203",
+    "name": "Marc Fesneau",
+    "email": "mfesneau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-204",
+    "name": "Jean-Marie Fiévet",
+    "email": "jmfievet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-205",
+    "name": "Agnès Firmin Le Bodo",
+    "email": "afirminlebodo@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-206",
+    "name": "Marc de Fleurian",
+    "email": "mdefleurian@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-207",
+    "name": "Guillaume Florquin",
+    "email": "gflorquin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-208",
+    "name": "Emmanuel Fouquart",
+    "email": "efouquart@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-209",
+    "name": "Charles Fournier",
+    "email": "cfournier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-210",
+    "name": "Thierry Frappé",
+    "email": "tfrappe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-211",
+    "name": "Moerani Frébault",
+    "email": "mfrebault@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-212",
+    "name": "Martine Froger",
+    "email": "mfroger@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-213",
+    "name": "Alix Fruchon",
+    "email": "afruchon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-214",
+    "name": "Bruno Fuchs",
+    "email": "bfuchs@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-215",
+    "name": "Jean-Luc Fugit",
+    "email": "jlfugit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-216",
+    "name": "Julien Gabarron",
+    "email": "jgabarron@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-217",
+    "name": "Perceval Gaillard",
+    "email": "pgaillard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-218",
+    "name": "Camille Galliard-Minier",
+    "email": "cgalliard-minier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-219",
+    "name": "Stéphanie Galzy",
+    "email": "sgalzy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-220",
+    "name": "Marie-Charlotte Garin",
+    "email": "mcgarin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-221",
+    "name": "Guillaume Garot",
+    "email": "ggarot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-222",
+    "name": "Thomas Gassilloud",
+    "email": "tgassilloud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-223",
+    "name": "Anne Genetet",
+    "email": "agenetet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-224",
+    "name": "Félicie Gérard",
+    "email": "fgerard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-225",
+    "name": "François Gernigon",
+    "email": "fgernigon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-226",
+    "name": "Jonathan Gery",
+    "email": "jgery@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-227",
+    "name": "Frank Giletti",
+    "email": "fgiletti@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-228",
+    "name": "Yoann Gillet",
+    "email": "ygillet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-229",
+    "name": "Christian Girard",
+    "email": "cgirard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-230",
+    "name": "Damien Girard",
+    "email": "dgirard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-231",
+    "name": "Olga Givernet",
+    "email": "ogivernet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-232",
+    "name": "Océane Godard",
+    "email": "ogodard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-233",
+    "name": "Julien Gokel",
+    "email": "jgokel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-234",
+    "name": "Antoine Golliot",
+    "email": "agolliot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-235",
+    "name": "José Gonzalez",
+    "email": "jgonzalez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-236",
+    "name": "Philippe Gosselin",
+    "email": "pgosselin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-237",
+    "name": "Pascale Got",
+    "email": "pgot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-238",
+    "name": "Guillaume Gouffier Valente",
+    "email": "ggouffiervalente@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-239",
+    "name": "Florence Goulet",
+    "email": "fgoulet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-240",
+    "name": "Perrine Goulet",
+    "email": "pgoulet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-241",
+    "name": "Géraldine Grangier",
+    "email": "ggrangier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-242",
+    "name": "Emmanuel Grégoire",
+    "email": "egregoire@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-243",
+    "name": "Olivia Grégoire",
+    "email": "ogregoire@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-244",
+    "name": "Jean-Carles Grelier",
+    "email": "jcgrelier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-245",
+    "name": "Daniel Grenon",
+    "email": "dgrenon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-246",
+    "name": "Monique Griseti",
+    "email": "mgriseti@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-247",
+    "name": "Justine Gruet",
+    "email": "jgruet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-248",
+    "name": "Jérôme Guedj",
+    "email": "jguedj@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-249",
+    "name": "Clémence Guetté",
+    "email": "cguette@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-250",
+    "name": "Julien Guibert",
+    "email": "jguibert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-251",
+    "name": "Michel Guiniot",
+    "email": "mguiniot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-252",
+    "name": "David Guiraud",
+    "email": "dguiraud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-253",
+    "name": "Jordan Guitton",
+    "email": "jguitton@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-254",
+    "name": "Frantz Gumbs",
+    "email": "fgumbs@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-255",
+    "name": "Steevy Gustave",
+    "email": "sgustave@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-256",
+    "name": "David Habib",
+    "email": "dhabib@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-257",
+    "name": "Stéphane Hablot",
+    "email": "shablot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-258",
+    "name": "Ayda Hadizadeh",
+    "email": "ahadizadeh@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-259",
+    "name": "Zahia Hamdane",
+    "email": "zhamdane@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-260",
+    "name": "Marine Hamelet",
+    "email": "mhamelet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-261",
+    "name": "Pierre Henriet",
+    "email": "phenriet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-262",
+    "name": "Michel Herbillon",
+    "email": "mherbillon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-263",
+    "name": "Florence Herouin-Léautey",
+    "email": "fherouin-leautey@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-264",
+    "name": "Catherine Hervieu",
+    "email": "chervieu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-265",
+    "name": "Céline Hervieu",
+    "email": "chervieu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-266",
+    "name": "Patrick Hetzel",
+    "email": "phetzel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-267",
+    "name": "Mathilde Hignet",
+    "email": "mhignet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-268",
+    "name": "François Hollande",
+    "email": "fhollande@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-269",
+    "name": "Sacha Houlié",
+    "email": "shoulie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-270",
+    "name": "Timothée Houssin",
+    "email": "thoussin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-271",
+    "name": "Sébastien Humbert",
+    "email": "shumbert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-272",
+    "name": "Harold Huwart",
+    "email": "hhuwart@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-273",
+    "name": "Sébastien Huyghe",
+    "email": "shuyghe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-274",
+    "name": "Catherine Ibled",
+    "email": "cibled@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-275",
+    "name": "Jérémie Iordanoff",
+    "email": "jiordanoff@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-276",
+    "name": "Cyrille Isaac-Sibille",
+    "email": "cisaac-sibille@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-277",
+    "name": "Laurent Jacobelli",
+    "email": "ljacobelli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-278",
+    "name": "Jean-Michel Jacques",
+    "email": "jmjacques@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-279",
+    "name": "Pascal Jenft",
+    "email": "pjenft@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-280",
+    "name": "François Jolivet",
+    "email": "fjolivet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-281",
+    "name": "Alexis Jolly",
+    "email": "ajolly@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-282",
+    "name": "Tiffany Joncour",
+    "email": "tjoncour@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-283",
+    "name": "Sylvie Josserand",
+    "email": "sjosserand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-284",
+    "name": "Sandrine Josso",
+    "email": "sjosso@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-285",
+    "name": "Florence Joubert",
+    "email": "fjoubert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-286",
+    "name": "Chantal Jourdan",
+    "email": "cjourdan@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-287",
+    "name": "Philippe Juvin",
+    "email": "pjuvin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-288",
+    "name": "Émeline K/Bidi",
+    "email": "ek/bidi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-289",
+    "name": "Marietta Karamanli",
+    "email": "mkaramanli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-290",
+    "name": "Guillaume Kasbarian",
+    "email": "gkasbarian@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-291",
+    "name": "Fatiha Keloua Hachi",
+    "email": "fkelouahachi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-292",
+    "name": "Andy Kerbrat",
+    "email": "akerbrat@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-293",
+    "name": "Loïc Kervran",
+    "email": "lkervran@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-294",
+    "name": "Brigitte Klinkert",
+    "email": "bklinkert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-295",
+    "name": "Daniel Labaronne",
+    "email": "dlabaronne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-296",
+    "name": "Bastien Lachaud",
+    "email": "blachaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-297",
+    "name": "Julie Laernoes",
+    "email": "jlaernoes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-298",
+    "name": "Tristan Lahais",
+    "email": "tlahais@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-299",
+    "name": "Abdelkader Lahmar",
+    "email": "alahmar@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-300",
+    "name": "Maxime Laisney",
+    "email": "mlaisney@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-301",
+    "name": "Amélia Lakrafi",
+    "email": "alakrafi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-302",
+    "name": "Sandrine Lalanne",
+    "email": "slalanne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-303",
+    "name": "Thomas Lam",
+    "email": "tlam@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-304",
+    "name": "Hélène Laporte",
+    "email": "hlaporte@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-305",
+    "name": "Benoît Larrouquis",
+    "email": "blarrouquis@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-306",
+    "name": "Philippe Latombe",
+    "email": "platombe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-307",
+    "name": "Michel Lauzzana",
+    "email": "mlauzzana@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-308",
+    "name": "Laure Lavalette",
+    "email": "llavalette@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-309",
+    "name": "Sandrine Le Feur",
+    "email": "slefeur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-310",
+    "name": "Didier Le Gac",
+    "email": "dlegac@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-311",
+    "name": "Arnaud Le Gall",
+    "email": "alegall@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-312",
+    "name": "Constance Le Grip",
+    "email": "clegrip@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-313",
+    "name": "Annaïg Le Meur",
+    "email": "alemeur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-314",
+    "name": "Christine Le Nabour",
+    "email": "clenabour@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-315",
+    "name": "Nicole Le Peih",
+    "email": "nlepeih@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-316",
+    "name": "Marine Le Pen",
+    "email": "mlepen@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-317",
+    "name": "Antoine Léaument",
+    "email": "aleaument@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-318",
+    "name": "Marie Lebec",
+    "email": "mlebec@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-319",
+    "name": "Karine Lebon",
+    "email": "klebon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-320",
+    "name": "Élise Leboucher",
+    "email": "eleboucher@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-321",
+    "name": "Robert Le Bourgeois",
+    "email": "rlebourgeois@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-322",
+    "name": "Pascal Lecamp",
+    "email": "plecamp@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-323",
+    "name": "Julie Lechanteux",
+    "email": "jlechanteux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-324",
+    "name": "Nadine Lechon",
+    "email": "nlechon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-325",
+    "name": "Aurélien Le Coq",
+    "email": "alecoq@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-326",
+    "name": "Jean-Paul Lecoq",
+    "email": "jplecoq@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-327",
+    "name": "Vincent Ledoux",
+    "email": "vledoux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-328",
+    "name": "Corentin Le Fur",
+    "email": "clefur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-329",
+    "name": "Jérôme Legavre",
+    "email": "jlegavre@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-330",
+    "name": "Sarah Legrain",
+    "email": "slegrain@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-331",
+    "name": "Claire Lejeune",
+    "email": "clejeune@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-332",
+    "name": "Gisèle Lelouis",
+    "email": "glelouis@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-333",
+    "name": "Didier Lemaire",
+    "email": "dlemaire@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-334",
+    "name": "Bartolomé Lenoir",
+    "email": "blenoir@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-335",
+    "name": "Stéphane Lenormand",
+    "email": "slenormand@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-336",
+    "name": "Guillaume Lepers",
+    "email": "glepers@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-337",
+    "name": "Hervé de Lépinau",
+    "email": "hdelepinau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-338",
+    "name": "Murielle Lepvraud",
+    "email": "mlepvraud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-339",
+    "name": "Gérard Leseul",
+    "email": "gleseul@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-340",
+    "name": "Valérie Létard",
+    "email": "vletard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-341",
+    "name": "Katiana Levavasseur",
+    "email": "klevavasseur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-342",
+    "name": "Laurent Lhardit",
+    "email": "llhardit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-343",
+    "name": "Eric Liégeon",
+    "email": "eliegeon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-344",
+    "name": "Julien Limongi",
+    "email": "jlimongi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-345",
+    "name": "Delphine Lingemann",
+    "email": "dlingemann@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-346",
+    "name": "René Lioret",
+    "email": "rlioret@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-347",
+    "name": "Brigitte Liso",
+    "email": "bliso@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-348",
+    "name": "Christine Loir",
+    "email": "cloir@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-349",
+    "name": "Aurélien Lopez-Liguori",
+    "email": "alopez-liguori@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-350",
+    "name": "Marie-France Lorho",
+    "email": "mflorho@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-351",
+    "name": "Philippe Lottiaux",
+    "email": "plottiaux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-352",
+    "name": "Alexandre Loubet",
+    "email": "aloubet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-353",
+    "name": "Véronique Louwagie",
+    "email": "vlouwagie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-354",
+    "name": "Benjamin Lucas-Lundy",
+    "email": "blucas-lundy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-355",
+    "name": "David Magnier",
+    "email": "dmagnier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-356",
+    "name": "Lise Magnier",
+    "email": "lmagnier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-357",
+    "name": "Sylvain Maillard",
+    "email": "smaillard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-358",
+    "name": "Frédéric Maillot",
+    "email": "fmaillot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-359",
+    "name": "Élisabeth de Maistre",
+    "email": "edemaistre@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-360",
+    "name": "Emmanuel Mandon",
+    "email": "emandon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-361",
+    "name": "Hanane Mansouri",
+    "email": "hmansouri@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-362",
+    "name": "Claire Marais-Beuil",
+    "email": "cmarais-beuil@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-363",
+    "name": "Laurent Marcangeli",
+    "email": "lmarcangeli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-364",
+    "name": "Matthieu Marchio",
+    "email": "mmarchio@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-365",
+    "name": "Bastien Marchive",
+    "email": "bmarchive@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-366",
+    "name": "Christophe Marion",
+    "email": "cmarion@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-367",
+    "name": "Pascal Markowsky",
+    "email": "pmarkowsky@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-368",
+    "name": "Sandra Marsaud",
+    "email": "smarsaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-369",
+    "name": "Alexandra Martin",
+    "email": "amartin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-370",
+    "name": "Élisa Martin",
+    "email": "emartin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-371",
+    "name": "Patrice Martin",
+    "email": "pmartin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-372",
+    "name": "Éric Martineau",
+    "email": "emartineau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-373",
+    "name": "Michèle Martinez",
+    "email": "mmartinez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-374",
+    "name": "Denis Masséglia",
+    "email": "dmasseglia@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-375",
+    "name": "Alexandra Masson",
+    "email": "amasson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-376",
+    "name": "Bryan Masson",
+    "email": "bmasson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-377",
+    "name": "Max Mathiasin",
+    "email": "mmathiasin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-378",
+    "name": "Jean-Paul Mattei",
+    "email": "jpmattei@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-379",
+    "name": "Damien Maudet",
+    "email": "dmaudet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-380",
+    "name": "Emmanuel Maurel",
+    "email": "emaurel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-381",
+    "name": "Kévin Mauvieux",
+    "email": "kmauvieux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-382",
+    "name": "Marianne Maximi",
+    "email": "mmaximi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-383",
+    "name": "Stéphane Mazars",
+    "email": "smazars@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-384",
+    "name": "Laurent Mazaury",
+    "email": "lmazaury@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-385",
+    "name": "Nicolas Meizonnet",
+    "email": "nmeizonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-386",
+    "name": "Graziella Melchior",
+    "email": "gmelchior@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-387",
+    "name": "Joëlle Mélin",
+    "email": "jmelin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-388",
+    "name": "Yaël Ménaché",
+    "email": "ymenache@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-389",
+    "name": "Thomas Ménagé",
+    "email": "tmenage@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-390",
+    "name": "Ludovic Mendes",
+    "email": "lmendes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-391",
+    "name": "Estelle Mercier",
+    "email": "emercier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-392",
+    "name": "Marie Mesmeur",
+    "email": "mmesmeur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-393",
+    "name": "Sophie Mette",
+    "email": "smette@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-394",
+    "name": "Nicolas Metzdorf",
+    "email": "nmetzdorf@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-395",
+    "name": "Frédérique Meunier",
+    "email": "fmeunier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-396",
+    "name": "Manon Meunier",
+    "email": "mmeunier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-397",
+    "name": "Pierre Meurin",
+    "email": "pmeurin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-398",
+    "name": "Maxime Michelet",
+    "email": "mmichelet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-399",
+    "name": "Éric Michoux",
+    "email": "emichoux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-400",
+    "name": "Paul Midy",
+    "email": "pmidy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-401",
+    "name": "Laure Miller",
+    "email": "lmiller@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-402",
+    "name": "Christelle Minard",
+    "email": "cminard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-403",
+    "name": "Joséphine Missoffe",
+    "email": "jmissoffe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-404",
+    "name": "Paul Molac",
+    "email": "pmolac@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-405",
+    "name": "Christophe Mongardien",
+    "email": "cmongardien@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-406",
+    "name": "Yannick Monnet",
+    "email": "ymonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-407",
+    "name": "Thibaut Monnier",
+    "email": "tmonnier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-408",
+    "name": "Louise Morel",
+    "email": "lmorel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-409",
+    "name": "Jean Moulliere",
+    "email": "jmoulliere@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-410",
+    "name": "Serge Muller",
+    "email": "smuller@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-411",
+    "name": "Marcellin Nadeau",
+    "email": "mnadeau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-412",
+    "name": "Christophe Naegelen",
+    "email": "cnaegelen@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-413",
+    "name": "Philippe Naillet",
+    "email": "pnaillet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-414",
+    "name": "Yannick Neuder",
+    "email": "yneuder@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-415",
+    "name": "Jean-Philippe Nilor",
+    "email": "jpnilor@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-416",
+    "name": "Sandrine Nosbé",
+    "email": "snosbe@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-417",
+    "name": "Jérôme Nury",
+    "email": "jnury@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-418",
+    "name": "Jacques Oberti",
+    "email": "joberti@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-419",
+    "name": "Danièle Obono",
+    "email": "dobono@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-420",
+    "name": "Julien Odoul",
+    "email": "jodoul@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-421",
+    "name": "Karl Olive",
+    "email": "kolive@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-422",
+    "name": "Hubert Ott",
+    "email": "hott@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-423",
+    "name": "Julie Ozenne",
+    "email": "jozenne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-424",
+    "name": "Nathalie Oziol",
+    "email": "noziol@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-425",
+    "name": "Didier Padey",
+    "email": "dpadey@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-426",
+    "name": "Jimmy Pahun",
+    "email": "jpahun@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-427",
+    "name": "Agnès Pannier-Runacher",
+    "email": "apannier-runacher@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-428",
+    "name": "Sophie Panonacle",
+    "email": "spanonacle@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-429",
+    "name": "Astrid Panosyan-Bouvet",
+    "email": "apanosyan-bouvet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-430",
+    "name": "Mathilde Panot",
+    "email": "mpanot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-431",
+    "name": "Sophie Pantel",
+    "email": "spantel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-432",
+    "name": "Caroline Parmentier",
+    "email": "cparmentier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-433",
+    "name": "Jérémie Patrier-Leitus",
+    "email": "jpatrier-leitus@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-434",
+    "name": "Éric Pauget",
+    "email": "epauget@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-435",
+    "name": "Constance de Pélichy",
+    "email": "cdepelichy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-436",
+    "name": "Marc Pena",
+    "email": "mpena@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-437",
+    "name": "Thierry Perez",
+    "email": "tperez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-438",
+    "name": "Frédéric Petit",
+    "email": "fpetit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-439",
+    "name": "Maud Petit",
+    "email": "mpetit@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-440",
+    "name": "Stéphane Peu",
+    "email": "speu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-441",
+    "name": "Sébastien Peytavie",
+    "email": "speytavie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-442",
+    "name": "Kévin Pfeffer",
+    "email": "kpfeffer@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-443",
+    "name": "Anna Pic",
+    "email": "apic@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-444",
+    "name": "René Pilato",
+    "email": "rpilato@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-445",
+    "name": "François Piquemal",
+    "email": "fpiquemal@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-446",
+    "name": "Christine Pirès Beaune",
+    "email": "cpiresbeaune@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-447",
+    "name": "Béatrice Piron",
+    "email": "bpiron@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-448",
+    "name": "Christophe Plassard",
+    "email": "cplassard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-449",
+    "name": "Marie Pochon",
+    "email": "mpochon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-450",
+    "name": "Lisette Pollet",
+    "email": "lpollet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-451",
+    "name": "Jean-François Portarrieu",
+    "email": "jfportarrieu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-452",
+    "name": "Thomas Portes",
+    "email": "tportes@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-453",
+    "name": "Alexandre Portier",
+    "email": "aportier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-454",
+    "name": "Dominique Potier",
+    "email": "dpotier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-455",
+    "name": "Josy Poueyto",
+    "email": "jpoueyto@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-456",
+    "name": "Marie-Agnès Poussier-Winsback",
+    "email": "mapoussier-winsback@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-457",
+    "name": "Natalia Pouzyreff",
+    "email": "npouzyreff@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-458",
+    "name": "Aurélien Pradié",
+    "email": "apradie@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-459",
+    "name": "Pierre Pribetich",
+    "email": "ppribetich@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-460",
+    "name": "Christophe Proença",
+    "email": "cproenca@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-461",
+    "name": "Loïc Prud'homme",
+    "email": "lprud'homme@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-462",
+    "name": "Stéphane Rambaud",
+    "email": "srambaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-463",
+    "name": "Richard Ramos",
+    "email": "rramos@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-464",
+    "name": "Angélique Ranc",
+    "email": "aranc@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-465",
+    "name": "Julien Rancoule",
+    "email": "jrancoule@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-466",
+    "name": "Jean-Hugues Ratenon",
+    "email": "jhratenon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-467",
+    "name": "Isabelle Rauch",
+    "email": "irauch@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-468",
+    "name": "Jean-Claude Raux",
+    "email": "jcraux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-469",
+    "name": "Nicolas Ray",
+    "email": "nray@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-470",
+    "name": "Marie Récalde",
+    "email": "mrecalde@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-471",
+    "name": "Sandra Regol",
+    "email": "sregol@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-472",
+    "name": "Mereana Reid Arbelot",
+    "email": "mreidarbelot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-473",
+    "name": "Matthias Renault",
+    "email": "mrenault@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-474",
+    "name": "Sophie Ricourt Vaginay",
+    "email": "sricourtvaginay@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-475",
+    "name": "Franck Riester",
+    "email": "friester@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-476",
+    "name": "Davy Rimane",
+    "email": "drimane@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-477",
+    "name": "Catherine Rimbert",
+    "email": "crimbert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-478",
+    "name": "Véronique Riotton",
+    "email": "vriotton@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-479",
+    "name": "Joseph Rivière",
+    "email": "jriviere@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-480",
+    "name": "Marie-Pierre Rixain",
+    "email": "mprixain@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-481",
+    "name": "Laurence Robert-Dehault",
+    "email": "lrobert-dehault@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-482",
+    "name": "Charles Rodwell",
+    "email": "crodwell@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-483",
+    "name": "Vincent Rolland",
+    "email": "vrolland@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-484",
+    "name": "Anne-Sophie Ronceret",
+    "email": "asronceret@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-485",
+    "name": "Xavier Roseren",
+    "email": "xroseren@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-486",
+    "name": "Valérie Rossi",
+    "email": "vrossi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-487",
+    "name": "Claudia Rouaux",
+    "email": "crouaux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-488",
+    "name": "Béatrice Roullaud",
+    "email": "broullaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-489",
+    "name": "Jean-Louis Roumégas",
+    "email": "jlroumegas@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-490",
+    "name": "Aurélien Rousseau",
+    "email": "arousseau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-491",
+    "name": "Sandrine Rousseau",
+    "email": "srousseau@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-492",
+    "name": "Fabrice Roussel",
+    "email": "froussel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-493",
+    "name": "Jean-François Rousset",
+    "email": "jfrousset@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-494",
+    "name": "Sophie-Laurence Roy",
+    "email": "slroy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-495",
+    "name": "François Ruffin",
+    "email": "fruffin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-496",
+    "name": "Sandrine Runel",
+    "email": "srunel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-497",
+    "name": "Anaïs Sabatini",
+    "email": "asabatini@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-498",
+    "name": "Alexandre Sabatou",
+    "email": "asabatou@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-499",
+    "name": "Arnaud Saint-Martin",
+    "email": "asaint-martin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-500",
+    "name": "Sébastien Saint-Pasteur",
+    "email": "ssaint-pasteur@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-501",
+    "name": "Laetitia Saint-Paul",
+    "email": "lsaint-paul@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-502",
+    "name": "Aurélien Saintoul",
+    "email": "asaintoul@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-503",
+    "name": "Emeric Salmon",
+    "email": "esalmon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-504",
+    "name": "Nicole Sanquer",
+    "email": "nsanquer@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-505",
+    "name": "Nicolas Sansu",
+    "email": "nsansu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-506",
+    "name": "Isabelle Santiago",
+    "email": "isantiago@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-507",
+    "name": "Eva Sas",
+    "email": "esas@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-508",
+    "name": "Hervé Saulignac",
+    "email": "hsaulignac@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-509",
+    "name": "Raphaël Schellenberger",
+    "email": "rschellenberger@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-510",
+    "name": "Philippe Schreck",
+    "email": "pschreck@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-511",
+    "name": "Sabrina Sebaihi",
+    "email": "ssebaihi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-512",
+    "name": "Mikaele Seo",
+    "email": "mseo@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-513",
+    "name": "Olivier Serva",
+    "email": "oserva@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-514",
+    "name": "Anne Sicard",
+    "email": "asicard@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-515",
+    "name": "Arnaud Simion",
+    "email": "asimion@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-516",
+    "name": "Danielle Simonnet",
+    "email": "dsimonnet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-517",
+    "name": "Charles Sitzenstuhl",
+    "email": "csitzenstuhl@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-518",
+    "name": "Bertrand Sorre",
+    "email": "bsorre@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-519",
+    "name": "Thierry Sother",
+    "email": "tsother@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-520",
+    "name": "Ersilia Soudais",
+    "email": "esoudais@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-521",
+    "name": "Violette Spillebout",
+    "email": "vspillebout@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-522",
+    "name": "Anne Stambach-Terrenoir",
+    "email": "astambach-terrenoir@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-523",
+    "name": "Michèle Tabarot",
+    "email": "mtabarot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-524",
+    "name": "Aurélien Taché",
+    "email": "atache@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-525",
+    "name": "Emmanuel Taché",
+    "email": "etache@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-526",
+    "name": "Sophie Taillé-Polian",
+    "email": "staille-polian@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-527",
+    "name": "Jean-Pierre Taite",
+    "email": "jptaite@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-528",
+    "name": "Jean-Philippe Tanguy",
+    "email": "jptanguy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-529",
+    "name": "Liliana Tanguy",
+    "email": "ltanguy@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-530",
+    "name": "David Taupiac",
+    "email": "dtaupiac@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-531",
+    "name": "Andrée Taurinya",
+    "email": "ataurinya@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-532",
+    "name": "Matthias Tavel",
+    "email": "mtavel@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-533",
+    "name": "Michaël Taverne",
+    "email": "mtaverne@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-534",
+    "name": "Boris Tavernier",
+    "email": "btavernier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-535",
+    "name": "Jean Terlier",
+    "email": "jterlier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-536",
+    "name": "Thierry Tesson",
+    "email": "ttesson@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-537",
+    "name": "Prisca Thevenot",
+    "email": "pthevenot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-538",
+    "name": "Céline Thiébault-Martinez",
+    "email": "cthiebault-martinez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-539",
+    "name": "Vincent Thiébaut",
+    "email": "vthiebaut@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-540",
+    "name": "Jean-Louis Thiériot",
+    "email": "jlthieriot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-541",
+    "name": "Nicolas Thierry",
+    "email": "nthierry@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-542",
+    "name": "Sabine Thillaye",
+    "email": "sthillaye@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-543",
+    "name": "Mélanie Thomin",
+    "email": "mthomin@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-544",
+    "name": "Lionel Tivoli",
+    "email": "ltivoli@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-545",
+    "name": "Emmanuel Tjibaou",
+    "email": "etjibaou@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-546",
+    "name": "Romain Tonussi",
+    "email": "rtonussi@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-547",
+    "name": "Stéphane Travert",
+    "email": "stravert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-548",
+    "name": "Vincent Trébuchet",
+    "email": "vtrebuchet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-549",
+    "name": "Aurélie Trouvé",
+    "email": "atrouve@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-550",
+    "name": "Nicolas Tryzna",
+    "email": "ntryzna@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-551",
+    "name": "Nicolas Turquois",
+    "email": "nturquois@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-552",
+    "name": "Boris Vallaud",
+    "email": "bvallaud@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-553",
+    "name": "Frédéric Valletoux",
+    "email": "fvalletoux@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-554",
+    "name": "Paul Vannier",
+    "email": "pvannier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-555",
+    "name": "Antoine Vermorel-Marques",
+    "email": "avermorel-marques@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-556",
+    "name": "Gérault Verny",
+    "email": "gverny@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-557",
+    "name": "Roger Vicot",
+    "email": "rvicot@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-558",
+    "name": "Annie Vidal",
+    "email": "avidal@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-559",
+    "name": "Jean-Pierre Vigier",
+    "email": "jpvigier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-560",
+    "name": "Philippe Vigier",
+    "email": "pvigier@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-561",
+    "name": "Corinne Vignon",
+    "email": "cvignon@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-562",
+    "name": "Antoine Villedieu",
+    "email": "avilledieu@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-563",
+    "name": "Anne-Cécile Violland",
+    "email": "acviolland@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-564",
+    "name": "Stéphane Viry",
+    "email": "sviry@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-565",
+    "name": "Frédéric-Pierre Vos",
+    "email": "fpvos@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-566",
+    "name": "Dominique Voynet",
+    "email": "dvoynet@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-567",
+    "name": "Lionel Vuibert",
+    "email": "lvuibert@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-568",
+    "name": "Jean-Luc Warsmann",
+    "email": "jlwarsmann@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-569",
+    "name": "Laurent Wauquiez",
+    "email": "lwauquiez@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-570",
+    "name": "Frédéric Weber",
+    "email": "fweber@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-571",
+    "name": "Christopher Weissberg",
+    "email": "cweissberg@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-572",
+    "name": "Jiovanny William",
+    "email": "jwilliam@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-573",
+    "name": "Éric Woerth",
+    "email": "ewoerth@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-574",
+    "name": "Caroline Yadan",
+    "email": "cyadan@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  },
+  {
+    "id": "fr-575",
+    "name": "Estelle Youssouffa",
+    "email": "eyoussouffa@assemblee-nationale.fr",
+    "constituency": "",
+    "country_code": "FR",
+    "chamber": "Assemblée nationale"
+  }
+]
