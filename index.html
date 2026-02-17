@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Contact your MP to show support for Ukraine's defense and freedom. Select your representative, preview your message, and send it in seconds.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://action4ukraine.org/">
+
+  <!-- Security headers -->
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self';">
+  <meta http-equiv="Permissions-Policy" content="camera=(), microphone=(), geolocation=(), interest-cohort=()">
+
+  <!-- Open Graph (Facebook, LinkedIn, Telegram, etc.) -->
+  <meta property="og:title" content="Action For Ukraine - Email Your MP in Seconds">
+  <meta property="og:description" content="A free tool to contact your Member of Parliament about supporting Ukraine. Select your MP, personalise a pre-drafted message, and send it in one click.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://action4ukraine.org/">
+  <meta property="og:image" content="https://action4ukraine.org/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Action For Ukraine - Contact your MP to support Ukraine">
+  <meta property="og:site_name" content="Action For Ukraine">
+  <meta property="og:locale" content="en_GB">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Action For Ukraine - Email Your MP in Seconds">
+  <meta name="twitter:description" content="A free tool to email your MP about supporting Ukraine. Takes less than a minute.">
+  <meta name="twitter:image" content="https://action4ukraine.org/assets/og-image.png">
+  <meta name="twitter:image:alt" content="Action For Ukraine - Contact your MP to support Ukraine">
+
+  <!-- Theme color for mobile browsers -->
+  <meta name="theme-color" content="#0057B7">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <title>Action For Ukraine - Email Your MP to Support Ukraine</title>
+
+  <!-- All assets self-hosted — no external CDNs, no third-party tracking -->
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/css/select2.min.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <a href="#introSection" class="header-logo-link">
+        <img src="assets/logo-removebg-preview.png" alt="Action For Ukraine Logo" class="logo">
+      </a>
+      <span class="header-title">Action For Ukraine</span>
+
+      <div class="share-container">
+        <span class="share-label">Share:</span>
+        <div class="share-buttons">
+          <button type="button" id="xShare" class="share-btn" aria-label="Share on X">
+            <img src="assets/x.png" alt="" class="share-logo">
+          </button>
+          <button type="button" id="telegramShare" class="share-btn" aria-label="Share on Telegram">
+            <img src="assets/telegram.png" alt="" class="share-logo">
+          </button>
+          <button type="button" id="facebookShare" class="share-btn" aria-label="Share on Facebook">
+            <img src="assets/facebook.png" alt="" class="share-logo">
+          </button>
+          <button type="button" id="whatsappShare" class="share-btn" aria-label="Share on WhatsApp">
+            <img src="assets/whatsapp.png" alt="" class="share-logo">
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="intro-section" id="introSection">
+      <div class="hero-overlay"></div>
+      <div class="intro-content">
+        <h1>Take Action for Ukraine</h1>
+        <p>Send a message to your MP to show your support for Ukraine's defense and freedom.</p>
+        <button id="startButton" class="btn btn-cta">I'm Ready to Contact My MP</button>
+        <div class="scroll-indicator" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M7 13l5 5 5-5M7 6l5 5 5-5"/>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works" id="howItWorks">
+      <h2>How It Works</h2>
+      <div class="steps-grid">
+        <div class="step-card animate-on-scroll">
+          <div class="step-number">1</div>
+          <h3>Find Your MP</h3>
+          <p>Search for your Member of Parliament by name or constituency.</p>
+        </div>
+        <div class="step-card animate-on-scroll">
+          <div class="step-number">2</div>
+          <h3>Review the Email</h3>
+          <p>Preview and personalise the pre-drafted message before sending.</p>
+        </div>
+        <div class="step-card animate-on-scroll">
+          <div class="step-number">3</div>
+          <h3>Send Your Message</h3>
+          <p>Send via your preferred email provider in just one click.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Form Section -->
+    <section class="form-section hidden" id="formSection">
+      <h2>Contact Your MP</h2>
+
+      <form id="emailForm">
+        <!-- MP Selection -->
+        <div class="form-group" id="mpSection">
+          <label for="mpSelect" id="mpLabel" class="form-label">Select Your MP / Constituency</label>
+          <select id="mpSelect" name="mpSelect" class="js-example-basic-single" required>
+            <option value="" disabled selected>Search for your MP or constituency...</option>
+          </select>
+        </div>
+
+        <!-- Name Input -->
+        <div class="form-group name-group" id="nameSection">
+          <label for="userName" id="nameLabel" class="form-label name-label">Your Name</label>
+          <p class="form-hint">Required — this will appear in your email to your MP</p>
+          <input type="text" id="userName" name="userName" placeholder="Enter your full name" required />
+        </div>
+
+        <!-- Email Preview Section -->
+        <div class="form-group" id="emailPreviewSection">
+          <div class="preview-header">
+            <h3>Live Email Preview</h3>
+            <span class="edit-hint">Click to edit</span>
+          </div>
+          <div id="emailPreview" contenteditable="true" role="textbox" aria-label="Email preview - editable" aria-live="polite"></div>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" id="sendEmailBtn" class="btn btn-primary hidden" disabled>Send Email</button>
+      </form>
+
+      <!-- Fallback Section -->
+      <section id="fallbackSection" class="fallback-section hidden">
+        <h3>Having trouble? Try one of these options:</h3>
+        <div class="fallback-grid">
+          <button id="openGmail" class="btn btn-outline fallback-btn">
+            <span>Gmail</span>
+          </button>
+          <button id="openYahoo" class="btn btn-outline fallback-btn">
+            <span>Yahoo Mail</span>
+          </button>
+          <button id="openOutlook" class="btn btn-outline fallback-btn">
+            <span>Outlook</span>
+          </button>
+          <button id="openAppleMail" class="btn btn-outline fallback-btn">
+            <span>Apple Mail</span>
+          </button>
+        </div>
+        <button id="copyEmailButton" class="btn btn-secondary">Copy Email to Clipboard</button>
+      </section>
+
+      <!-- Success State -->
+      <section id="successSection" class="success-section hidden">
+        <div class="success-content">
+          <svg class="success-icon" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+            <polyline points="22 4 12 14.01 9 11.01"/>
+          </svg>
+          <h3>Your email is on its way!</h3>
+          <p>Share this tool with others to amplify Ukraine's voice.</p>
+          <div class="success-share-buttons">
+            <button type="button" class="btn btn-outline" id="successXShare" aria-label="Share on X">Share on X</button>
+            <button type="button" class="btn btn-outline" id="successWhatsAppShare" aria-label="Share on WhatsApp">Share on WhatsApp</button>
+          </div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-brand">
+        <img src="assets/logo-removebg-preview.png" alt="Action For Ukraine" class="footer-logo">
+        <p>Empowering citizens to stand with Ukraine through democratic action.</p>
+      </div>
+      <div class="footer-links">
+        <h4>Share This Page</h4>
+        <div class="footer-share-buttons">
+          <button type="button" class="footer-share-btn" id="footerXShare" aria-label="Share on X">X / Twitter</button>
+          <button type="button" class="footer-share-btn" id="footerTelegramShare" aria-label="Share on Telegram">Telegram</button>
+          <button type="button" class="footer-share-btn" id="footerFacebookShare" aria-label="Share on Facebook">Facebook</button>
+          <button type="button" class="footer-share-btn" id="footerWhatsAppShare" aria-label="Share on WhatsApp">WhatsApp</button>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Action For Ukraine. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Toast container -->
+  <div id="toastContainer" class="toast-container" aria-live="polite"></div>
+
+  <!-- Scroll to top button -->
+  <button id="scrollTopBtn" class="scroll-top-btn" aria-label="Scroll to top">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+      <path d="M18 15l-6-6-6 6"/>
+    </svg>
+  </button>
+
+  <!-- All scripts self-hosted — zero external requests -->
+  <script src="assets/js/jquery-3.6.0.min.js"></script>
+  <script src="assets/js/select2.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
