@@ -11,8 +11,8 @@ interface SocialShareProps {
 }
 
 export function SocialShare({ className }: SocialShareProps) {
-    const shareUrl = "https://actionforukraine.com"; // Replace with actual URL
-    const shareText = "I just wrote to my representative asking for urgent support for Ukraine. Join me and make your voice heard!";
+    const shareUrl = "https://bigatheunit.github.io/Action4UKR/";
+    const shareText = "I just wrote to my representative asking for continued support for Ukraine. It only takes 2 minutes — join me and make your voice heard!";
 
     const encodedUrl = encodeURIComponent(shareUrl);
     const encodedText = encodeURIComponent(shareText);
